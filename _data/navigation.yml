@@ -1,9 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our School
-    url: /permalink
+    url: /our-school
     sublinks:
-      - title: Our Heritage
-        url: /permalink
+      - title: Principal's Message
+        url: /Principal-message
   - title: Contact Us
     url: /contact-us/
