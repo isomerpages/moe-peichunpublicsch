@@ -2,4 +2,5 @@ collections:
   the-pei-chun-experience:
     output: true
     order:
+      - SAP Programme 特选课程部.md
       - PAL Programme.md
