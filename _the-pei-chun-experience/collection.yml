@@ -1,4 +1,5 @@
 collections:
   the-pei-chun-experience:
     output: true
-    order: []
+    order:
+      - PAL Programme.md
