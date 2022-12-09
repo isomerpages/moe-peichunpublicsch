@@ -1,9 +1,0 @@
-collections:
-  example-folder:
-    output: true
-    order:
-      - Our School/Consent for Photography and Videos.md
-      - Our School/Our People.md
-      - Our School/Our Heritage.md
-      - Our School/.keep
-      - Our School/Principal’s Message.md
