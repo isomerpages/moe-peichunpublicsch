@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our People/Executive and Administration Staff and Support Staff.md
       - Our People/Teaching Staff.md
       - Our People/Key Personnel 2022.md
       - Our People/School Management Committee.md
