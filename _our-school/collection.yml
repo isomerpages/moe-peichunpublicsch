@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Heritage/School Song.md
       - Our Heritage/Mission, Vision & Values.md
       - Our Heritage/.keep
       - Principal's Message.md
