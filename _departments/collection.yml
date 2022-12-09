@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - IP Department/Science.md
       - IP Department/Mathematics.md
       - IP Department/English.md
       - IP Department/.keep
