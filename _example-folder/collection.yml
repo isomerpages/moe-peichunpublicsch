@@ -2,7 +2,6 @@ collections:
   example-folder:
     output: true
     order:
-      - folder-page.md
       - Our School/Consent for Photography and Videos.md
       - Our School/Our People.md
       - Our School/Our Heritage.md
