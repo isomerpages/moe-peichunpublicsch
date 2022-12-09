@@ -2,15 +2,15 @@ collections:
   our-school:
     output: true
     order:
-      - Consent for photography and videos.md
+      - Principal's Message.md
+      - Our Heritage/.keep
+      - Our Heritage/School Heritage.md
+      - Our Heritage/Mission, Vision & Values.md
+      - Our Heritage/School Song.md
       - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Key Personnel 2022.md
       - Our People/Teaching Staff.md
       - Our People/Executive and Administration Staff.md
       - Our People/Parent Support Group.md
-      - Principal's Message.md
-      - Our Heritage/.keep
-      - Our Heritage/School Heritage.md
-      - Our Heritage/Mission, Vision & Values.md
-      - Our Heritage/School Song.md
+      - Consent for photography and videos.md
