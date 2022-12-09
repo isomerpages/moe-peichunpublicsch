@@ -2,6 +2,7 @@ collections:
   the-pei-chun-experience:
     output: true
     order:
+      - iREAD Programme.md
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - SAP Programme 特选课程部.md
