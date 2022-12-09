@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Co IP Department/Student Management.md
       - Co IP Department/Innovation & Information Communication Technologies.md
       - Co IP Department/Character and Citizenship Education.md
       - Co IP Department/.keep
