@@ -2,10 +2,10 @@ collections:
   the-pei-chun-experience:
     output: true
     order:
-      - Home Based Learning.md
-      - Sexuality Education in Schools.md
-      - iREAD Programme.md
-      - Learning for Life Programme (LLP).md
-      - Applied Learning Programme (ALP).md
-      - SAP Programme 特选课程部.md
       - PAL Programme.md
+      - SAP Programme 特选课程部.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - iREAD Programme.md
+      - Sexuality Education in Schools.md
+      - Home Based Learning.md
