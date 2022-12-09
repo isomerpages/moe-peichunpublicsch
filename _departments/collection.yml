@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - IP Department/Aesthetics.md
-      - IP Department/PE and CCA.md
-      - IP Department/Chinese 华文部.md
-      - IP Department/Science.md
-      - IP Department/Mathematics.md
-      - IP Department/English.md
       - IP Department/.keep
+      - IP Department/English.md
+      - IP Department/Mathematics.md
+      - IP Department/Science.md
+      - IP Department/Chinese 华文部.md
+      - IP Department/PE and CCA.md
+      - IP Department/Aesthetics.md
