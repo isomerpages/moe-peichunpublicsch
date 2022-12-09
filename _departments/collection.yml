@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - IP Department/English.md
       - IP Department/.keep
