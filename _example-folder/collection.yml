@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - folder-page.md
+      - Our School/Our Heritage.md
       - Our School/.keep
       - Our School/Principal’s Message.md
