@@ -1,13 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our School
-    url: /our-school
-    sublinks:
-      - title: Principal's Message
-        url: /our-school/Principal-message/
-      - title: Our Heritage
-        url: /Our-heritage
-      - title: Our People
-        url: /Our-people
+    collection: our-school
   - title: Contact Us
     url: /contact-us/
