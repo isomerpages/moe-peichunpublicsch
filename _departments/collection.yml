@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - IP Department/PE and CCA.md
       - IP Department/Chinese 华文部.md
       - IP Department/Science.md
       - IP Department/Mathematics.md
