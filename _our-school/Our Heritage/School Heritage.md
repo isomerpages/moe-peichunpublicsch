@@ -4,9 +4,6 @@ permalink: /our-school/Our-Heritage/School-Heritage/
 description: ""
 third_nav_title: Our Heritage
 ---
-School Heritage
----------------
-
 Pei Chun Public School was established in 1933 by a group of Hainanese to provide education to the children of the Chinese working class.  It became a government-aided school in 1956.  With its unique Chinese culture and rich tradition as a Chinese medium school in its early days, Pei Chun was accorded the Special Assistance Plan (SAP) school status in 1990.  In 2001, Pei Chun moved to its current premises in Toa Payoh Lorong 7.  Through the years, the school prides itself in providing an all-round bilingual and holistic education to children in Toa Payoh.
 
 Since its establishment in 1933, Pei Chun has remained true to its mission to nurture responsible citizens who will contribute to society.  Leveraging on its rich tradition and the pervasive Chinese culture, Pei Chun seeks to instil moral values in pupils and enhance bilingualism to maximise pupils’ potential. The ethos of developing every pupil to be a ‘Passionate and Cultured Learner; Proactive and Caring Leader’ also underpins all our educational processes and programmes.  The two South Zone Centres of Excellence to promote the teaching and learning of Sports and Chinese Language in South Zone schools is yet another testament of the school’s unwavering quest to build a culture of excellence.
