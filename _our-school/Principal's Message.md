@@ -7,7 +7,7 @@ Dear Parents/Guardians and Students,
 
 Happy New Year and may I warmly welcome all of you to a new academic year! Joining our Pei Chun Family are our Primary 1 students and their parents, as well as those who have just joined us in 2021. For some of the families, their third generation of family members will be embarking on their education journey in Pei Chun. If you happened to be one such family, do get in touch with us via email ([pcps@moe.edu.sg](mailto:pcps@moe.edu.sg)) as we would like to feature your families in our Pei Chun Heritage Gallery. Just not too long ago in December 2020, we managed to feature Mr Lim and his family – Mr Lim the grandfather graduated from Pei Chun in 1960 , his son graduated in 1991 and now his granddaughters are in Primary 3 and 5 respectively.
 
-![](https://peichunpublic.moe.edu.sg/wp-content/uploads/2021/01/Pmessage.jpg)
+![](/images/P%20message.jpg)
 
 As we welcome new Pei Chun students into our big family, we also have the privilege of growing the “Pei Chun Village” with new staff members. We would like to welcome to our new Vice Principal, Miss Sng Wan Xian, to the Pei Chun school leadership team. Our outgoing Vice Principal Ms Angela Goh will be continuing her next leadership stint at Red Swastika School. We would like to thank Ms Goh for the invaluable contributions that she has made to the school over the years – seeing through the shift of the school, transiting to single-session school, as well as in the areas of student development and well-being.
 
