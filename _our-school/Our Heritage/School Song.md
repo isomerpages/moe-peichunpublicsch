@@ -4,8 +4,6 @@ permalink: /our-school/Our-Heritage/School-Song/
 description: ""
 third_nav_title: Our Heritage
 ---
-School Song
----------------
 ![](/images/Yu%20Dafu.jpg)
 
 **郁达夫  
