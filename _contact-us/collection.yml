@@ -2,6 +2,7 @@ collections:
   contact-us:
     output: true
     order:
+      - School Contact Information.md
       - Forms.md
       - Admission.md
       - Vendors Contact Information.md
