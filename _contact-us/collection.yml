@@ -2,9 +2,9 @@ collections:
   contact-us:
     output: true
     order:
-      - Forms.md
-      - Admission.md
-      - Vendors Contact Information.md
       - School Contact Information.md
-      - Students Pick Up And Drop Off (PUDO) Points.md
+      - Vendors Contact Information.md
       - Information for Visitors.md
+      - Students Pick Up And Drop Off (PUDO) Points.md
+      - Admission.md
+      - Forms.md
