@@ -4,7 +4,7 @@ links:
     collection: our-school
   - title: Departments
     collection: departments
-  - title: Contact Us
-    url: /contact-us/
   - title: The Pei Chun Experience
     collection: the-pei-chun-experience
+  - title: Contact Us
+    url: /contact-us/
