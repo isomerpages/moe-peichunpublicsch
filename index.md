@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Our Programmes
+      subtitle: Our Programmes
+      button: Read more
 ---
