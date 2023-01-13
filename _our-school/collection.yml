@@ -2,7 +2,7 @@ collections:
   our-school:
     output: true
     order:
-      - 校长 字词 Principal's Message.md
+      - 校长字词 Principal's Message.md
       - Our Heritage/.keep
       - Our Heritage/Mission, Vision & Values.md
       - Our Heritage/School Song.md
