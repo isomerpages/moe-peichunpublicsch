@@ -3,8 +3,6 @@ title: 校长字词 Principal's Message
 permalink: /our-school/Principal-message/
 description: ""
 ---
-
-
 Dear Parents/Guardians and Students,
 
 Happy New Year and may I warmly welcome all of you to a new academic year! Joining our Pei Chun Family are our Primary 1 students and their parents, as well as those who have just joined us in 2021. For some of the families, their third generation of family members will be embarking on their education journey in Pei Chun. If you happened to be one such family, do get in touch with us via email ([pcps@moe.edu.sg](mailto:pcps@moe.edu.sg)) as we would like to feature your families in our Pei Chun Heritage Gallery. Just not too long ago in December 2020, we managed to feature Mr Lim and his family – Mr Lim the grandfather graduated from Pei Chun in 1960 , his son graduated in 1991 and now his granddaughters are in Primary 3 and 5 respectively.
