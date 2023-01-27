@@ -23,7 +23,7 @@ sections:
           description: ""
           url: https://www.facebook.com/PeiChunPublicSchool
   - infobar:
-      title: Infobar title
+      title: Latest Update
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
