@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: 终身学习项目 Learning for Life Programme
           description: ""
-          url: ""
+          url: /our-programmes/department/permalink/LLP
         - title: 应用学习项目 Applied Learning Programme
           description: ""
           url: /our-programmes/department/permalink/ALP
