@@ -18,7 +18,7 @@ sections:
           url: ""
         - title: 应用学习项目 Applied Learning Programme
           description: ""
-          url: https://staging.dwztl7hgcsgqx.amplifyapp.com/our-programmes/department/permalink/
+          url: /our-programmes/department/permalink/ALP
         - title: Visit us on Facebook!
           description: ""
           url: https://www.facebook.com/PeiChunPublicSchool
@@ -33,4 +33,3 @@ sections:
       subtitle: Our Programmes
       button: Read more
 ---
-
