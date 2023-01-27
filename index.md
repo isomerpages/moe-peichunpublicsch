@@ -18,7 +18,7 @@ sections:
           url: ""
         - title: 应用学习项目 Applied Learning Programme
           description: ""
-          url: https://peichunpublicschool.edu.sg/our-programmes/department/permalink/
+          url: https://staging.dwztl7hgcsgqx.amplifyapp.com/our-programmes/department/permalink/
         - title: Visit us on Facebook!
           description: ""
           url: https://www.facebook.com/PeiChunPublicSchool
