@@ -1,5 +1,0 @@
-collections:
-  our-programmes:
-    output: true
-    order:
-      - Our Programmes.md
