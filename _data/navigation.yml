@@ -4,3 +4,5 @@ links:
     collection: our-school
   - title: 培群团队 Our People
     collection: our-people
+  - title: 培群课程 Our Programmes
+    resource_room: true
