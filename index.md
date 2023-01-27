@@ -13,15 +13,15 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Learning for Life Programme (LLP)
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Applied Learning Programme (ALP)
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: 终身学习项目 Learning for Life Programme
+          description: ""
+          url: ""
+        - title: 应用学习项目 Applied Learning Programme
+          description: ""
+          url: https://peichunpublicschool.edu.sg/our-programmes/department/permalink/
         - title: Visit us on Facebook!
-          description: Page A is important too
-          url: /privacy/
+          description: ""
+          url: https://www.facebook.com/PeiChunPublicSchool
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -33,4 +33,3 @@ sections:
       subtitle: Our Programmes
       button: Read more
 ---
-
