@@ -3,4 +3,4 @@ title: 校歌 School Song
 permalink: /our-school/permalink/
 description: ""
 ---
-Content
+![](/images/School%20Song.jpg)
