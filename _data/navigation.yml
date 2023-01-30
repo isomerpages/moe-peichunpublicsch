@@ -5,6 +5,9 @@ links:
   - title: 培群团队 Our People
     collection: our-people
   - title: 培群课程 Our Programmes
-    resource_room: true
+    url: https://peichunpublicschool.edu.sg/our-programmes/our-programmes/permalink/science
+    sublinks:
+      - title: Science
+        url: https://peichunpublicschool.edu.sg/our-programmes/our-programmes/permalink/science
   - title: 其他资讯 Useful Information/Links
     collection: useful-information-and-links
