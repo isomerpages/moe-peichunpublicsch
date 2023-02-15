@@ -8,6 +8,7 @@ third_nav_title: 培群部门 Our Departments
 The Science Department aims to inspire students to seek scientific knowledge and equip them with competencies to meet the challenges of the 21st Century through the development of skills for scientific inquiry and innovation and build their foundation in scientific ethics. 
 These goals are represented by the tagline Science for Life and Society and are central to the revised Science Curriculum Framework.
 
+<img src="/images/Our%20Programmes/Science1.jpg" alt="Science1" style="width:300px;height:300px;"> 
 
 **Curriculum** <br>
 We seek to nurture students’ natural curiosity in science and the natural world. Using the inquiry-based and hands-on exploratory approach, students can observe live specimens of plants and animals in the eco-garden and work in teams to conduct experiments in laboratories. Students also go on learning journeys to broaden their experiences beyond classroom, bringing about greater joy of learning. 
