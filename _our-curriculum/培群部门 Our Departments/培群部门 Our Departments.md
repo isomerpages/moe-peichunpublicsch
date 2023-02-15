@@ -65,7 +65,7 @@ third_nav_title: 培群部门 Our Departments
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/LLP//">
+			<a href="/our-programmes/CCE/">
 				<img src="/Prog-icon/TEACHERS.jpg"/>
 				<p align="center">公民与品格教育<br>Character and Citizenship Education (CCE)</p>
 			</a>
