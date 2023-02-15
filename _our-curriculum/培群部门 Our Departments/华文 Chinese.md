@@ -4,7 +4,7 @@ permalink: /our-programmes/Chinese-CL/
 description: ""
 third_nav_title: 培群部门 Our Departments
 ---
-/our-programmes/Chinese-CL/
+[English](/our-programmes/Chinese-EL/) | [Chinese](/our-programmes/Chinese-CL/)
 
 **课程大纲**<br>
 小学华文课程的总目标包括：
