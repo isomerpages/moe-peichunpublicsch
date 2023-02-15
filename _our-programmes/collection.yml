@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 体育与辅助活动 Physical Education & CCA.md
       - 体陶冶计划 Programme for Active Learning (PAL).md
       - 学生管理与身心发展 Student Mgmt & Well Being.md
       - 科学 Science.md
