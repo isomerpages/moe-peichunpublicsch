@@ -19,7 +19,7 @@ third_nav_title: 培群部门 Our Departments
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/PAL/">
+			<a href="/our-programmes/Chinese/">
 				<img src="/Prog-icon/SAC.jpg"/>
 				<p align="center">华文<br>Chinese</p>
 			</a>
