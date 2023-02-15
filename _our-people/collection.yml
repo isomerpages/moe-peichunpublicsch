@@ -2,5 +2,5 @@ collections:
   our-people:
     output: true
     order:
-      - 学校管理层Key Personnel.md
+      - 学校管理层 Key Personnel.md
       - 校董会 School Management Committee.md
