@@ -25,7 +25,7 @@ third_nav_title: 培群课程 Our Programmes
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/English/">
+			<a href="/our-programmes/CCE/Sexuality-Education/">
 				<img src="/Prog-icon/PSG%20(1).jpg"/>
 				<p align="center">性教育课程<br>Sexuality Education</p>
 			</a>
