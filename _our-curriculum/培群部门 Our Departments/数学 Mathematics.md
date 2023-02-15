@@ -27,4 +27,4 @@ These are some of our signature programmes:
 **Assessments**<br>
 Assessments are aligned to what pupils have learnt. Various modes of assessment such as pen-and-paper tests, performance tasks and journal writing are used to provide pupils opportunities to self-assess their learning and thinking process, to reflect on their strengths and weaknesses and what they can do to improve their learning. The assessments also provide feedback on pupils’ learning, their progress and allows for identification of misconceptions and areas for further instruction. 
 
-![Maths3](/images/Our%20Programmes/Math3.jpg)
+![Math4](/images/Our%20Programmes/Math4.jpg)
