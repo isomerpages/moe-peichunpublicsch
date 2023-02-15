@@ -3,7 +3,6 @@ title: 特别辅助计划 Special Assistance Plan (SAP)
 permalink: /our-programme-hidden/SAP-EL/
 description: ""
 ---
-
 [English](/our-programme-hidden/SAP-EL/) | [Chinese](/our-programmes/SAP-CL/)
 
 **SAP Programmes**<br>
