@@ -32,8 +32,8 @@ description: ""
 	</tr>
 	<tr>
 		<td width="25%">
-			<a href="/Prog-icon/school-management-committee">
-				<img src="/images/FTTPS%20Family/ExcoIcon.jpg"/>
+			<a href="/our-programmes/Innovation-ICT/">
+				<img src="/images/Family.jpg"/>
 				<p align="center">创意、资讯科技<br>Innovation & ICT</p>
 			</a>
 		</td>
