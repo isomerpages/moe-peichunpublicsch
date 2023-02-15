@@ -13,7 +13,7 @@ third_nav_title: 培群部门 Our Departments
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/LLP//">
+			<a href="/our-programmes/Mathematics/">
 				<img src="/Prog-icon/TEACHERS.jpg"/>
 				<p align="center">数学<br>Mathematics</p>
 			</a>
