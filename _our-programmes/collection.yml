@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 终身学习项目 Learning for Life Programme.md
       - 数学 Mathematics.md
       - 体育与辅助活动 Physical Education & CCA.md
       - 体陶冶计划 Programme for Active Learning (PAL).md
