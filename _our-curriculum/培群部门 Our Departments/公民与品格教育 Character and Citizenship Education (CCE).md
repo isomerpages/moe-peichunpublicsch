@@ -59,7 +59,7 @@ The SS curriculum supports the school vision of creating Patriotic and Caring Ci
 * Participative<br>
 	 Empowered to take personal; and collective responsibility and serves to make a positive difference to others
 	 
-The SS syllabus is designed in three broad clusters entitled Discovering Self and Immediate Environment (P1 & P2), Understanding Singapore in the Past and Present (P3 & P4) and Appreciating the World and Region We Live In (P5 & P6).
- 
+The SS syllabus is designed in three broad clusters entitled Discovering Self and Immediate Environment (P1 & P2), Understanding Singapore in the Past and Present (P3 & P4) and Appreciating the World and Region We Live In (P5 & P6). 
+
 **2.4 Student Leadership Development – Pei Chun Leaders Programme**<br>
-Link to https://peichunpublic.moe.edu.sg/llp/
+Link to https://peichunpublicschool.edu.sg/our-programmes/LLP/
