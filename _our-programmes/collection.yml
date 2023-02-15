@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 公民与品格教育 Character and Citizenship Education.md
       - 华文 Chinese.md
       - 英文 English.md
       - 创意、资讯科技 Innovation & ICT.md
