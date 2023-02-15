@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 培群部门 Our Departments/.keep
-      - 培群部门 Our Departments/部门 Departments.md
+      - 培群部门 Our Departments/培群部门 Our Departments.md
       - 培群部门 Our Departments/英文 English.md
       - 培群部门 Our Departments/数学 Mathematics.md
       - 培群部门 Our Departments/华文 Chinese.md
