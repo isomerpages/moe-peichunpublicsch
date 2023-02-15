@@ -15,8 +15,8 @@ sections:
         - title: 终身学习项目
           description: " Learning for Life Programme"
           url: /our-programmes/llp/
-        - title: Visit us on Facebook!
-          description: ""
+        - title: 培群脸书
+          description: Visit us on Facebook!
           url: https://www.facebook.com/PeiChunPublicSchool
   - infopic:
       title: Curriculum Briefing for Parents
