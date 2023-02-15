@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - 部门 Departments.md
+      - 培群课程 Our Programmes.md
       - 美育 Aesthetics.md
       - 应用学习项目 Applied Learning Programme.md
       - 公民与品格教育 CCE/.keep
