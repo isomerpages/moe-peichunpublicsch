@@ -33,7 +33,7 @@ third_nav_title: 培群部门 Our Departments
 	</tr>
 	<tr>
 		<td width="25%">
-			<a href="/our-programmes/ALP/">
+			<a href="/our-programmes/Aesthetics/">
 				<img src="/Prog-icon/english.jpg"/>
 				<p align="center">美育<br>Aesthetics</p>
 			</a>
