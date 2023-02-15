@@ -7,7 +7,7 @@ third_nav_title: 培群课程 Our Programmes
 <table>
 	<tr>
 		<td width="25%">
-			<a href="/our-programmes/Aesthetics/">
+			<a href="/our-programmes/ALP/">
 				<img src="/Prog-icon/FTTPS%20Family/ExcoIcon.jpg"/>
 				<p align="center">应用学习项目<br>Applied Learning Programme (ALP)</p>
 			</a>
