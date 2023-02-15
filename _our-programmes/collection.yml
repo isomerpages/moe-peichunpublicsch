@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 创意、资讯科技 Innovation & ICT.md
       - 英文 English.md
       - 培群课程 Our Programmes/阅读计划 iREAD Programme.md
       - 培群课程 Our Programmes/终身学习项目 Learning for Life Programme.md
