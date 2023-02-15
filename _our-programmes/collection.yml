@@ -1,5 +1,5 @@
 collections:
-  our-programmes-cl:
+  our-programmes:
     output: true
     order:
       - 美育 Aesthetics.md
