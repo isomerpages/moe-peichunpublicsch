@@ -2,5 +2,6 @@ collections:
   useful-info:
     output: true
     order:
+      - 学校相关服务 School Services.md
       - 其他事务 Others.md
       - 访客信息 Information for visitors.md
