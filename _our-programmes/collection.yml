@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 部门 Departments/科学 Science.md
       - 部门 Departments/华文 Chinese.md
       - 部门 Departments/数学 Mathematics.md
       - 部门 Departments/英文 English.md
