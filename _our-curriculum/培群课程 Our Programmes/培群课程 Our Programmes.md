@@ -33,7 +33,7 @@ third_nav_title: 培群课程 Our Programmes
 	</tr>
 	<tr>
 		<td width="25%">
-			<a href="/our-programmes/Innovation-ICT/">
+			<a href="/our-programmes/iREAD/">
 				<img src="/Prog-icon/Family.jpg"/>
 				<p align="center">阅读计划<br>iREAD Programme</p>
 			</a>
