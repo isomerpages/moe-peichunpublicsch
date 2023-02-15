@@ -2,4 +2,5 @@ collections:
   useful-info:
     output: true
     order:
+      - 其他事务 Others.md
       - 访客信息 Information for visitors.md
