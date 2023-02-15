@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 部门 Departments/体育与辅助活动 Physical Education & CCA.md
       - 部门 Departments/美育 Aesthetics.md
       - 部门 Departments/特别辅助计划 Special Assistance Plan (SAP).md
       - 部门 Departments/科学 Science.md
