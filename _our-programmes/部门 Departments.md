@@ -24,7 +24,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/Prog-icon/parent-support-group">
+			<a href="/our-programmes/English/">
 				<img src="/images/PSG%20(1).jpg"/>
 				<p align="center">英文 <br> English</p>
 			</a>
