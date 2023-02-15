@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Innovation & ICT/创意、资讯科技 Innovation & ICT.md
       - Innovation & ICT/.keep
       - 美育 Aesthetics.md
       - 应用学习项目 Applied Learning Programme.md
