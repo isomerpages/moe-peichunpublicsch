@@ -6,7 +6,7 @@ description: ""
 <table>
 	<tr>
 		<td width="25%">
-			<a href="/Prog-icon/school-management-committee">
+			<a href="/our-programmes/Aesthetics/">
 				<img src="/images/FTTPS%20Family/ExcoIcon.jpg"/>
 				<p align="center">美育 <br> Aesthetics</p>
 			</a>
