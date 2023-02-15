@@ -45,7 +45,7 @@ third_nav_title: 培群部门 Our Departments
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/PAL/">
+			<a href="/our-programmes/SAP-CL/">
 				<img src="/Prog-icon/SAC.jpg"/>
 				<p align="center">特别辅助计划<br>Special Assistance Plan (SAP)</p>
 			</a>
