@@ -4,11 +4,10 @@ permalink: /our-programmes/Departments/
 description: ""
 third_nav_title: 培群部门 Our Departments
 ---
-
 <table>
 	<tr>
 		<td width="25%">
-			<a href="/our-programmes/ALP/">
+			<a href="/our-programmes/English/">
 				<img src="/Prog-icon/english.jpg"/>
 				<p align="center">英文<br>English</p>
 			</a>
