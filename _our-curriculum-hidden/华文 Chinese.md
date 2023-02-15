@@ -3,8 +3,6 @@ title: 华文 Chinese
 permalink: /our-curriculum-hidden/Chinese-EL/
 description: ""
 ---
-**Curriculum**
-
 **Curriculum Objectives:**<br>
 1. To develop language skills (listening, speaking, reading, writing, spoken and written interaction skills)
 2. To develop civic literacy and cultural awareness (values, Chinese culture, social knowledge, care and global awareness)
@@ -26,4 +24,3 @@ Students are assessed holistically through the formative and summative assessmen
 
 **Learning Experiences Beyond the Classroom** <br>
 ![Chinese1](/images/Our%20Programmes/Chinese1.jpg)
-
