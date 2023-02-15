@@ -38,7 +38,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/Prog-icon/our-staff">
+			<a href="/our-programmes/Mathematics/">
 				<img src="/images/TEACHERS.jpg"/>
 				<p align="center">数学 <br> Mathematics</p>
 			</a>
