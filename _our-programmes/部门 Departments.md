@@ -44,7 +44,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/Prog-icon/school-advisory-committee">
+			<a href="/our-programmes/PE-CCA/">
 				<img src="/images/SAC.jpg"/>
 				<p align="center">体育与辅助活动 <br> Physical Education <br> and CCA</p>
 			</a>
