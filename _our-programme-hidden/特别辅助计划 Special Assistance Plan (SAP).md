@@ -5,4 +5,3 @@ description: ""
 ---
 [English](/our-programme-hidden/SAP-el/) | [Chinese](/our-programmes/SAP-cl/)
 
-![特别辅助计划 Special Assistance Plan (SAP)](/images/Our%20Programmes/SAP%20EL.jpg)
