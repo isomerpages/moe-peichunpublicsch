@@ -21,20 +21,54 @@ third_nav_title: 培群部门 Our Departments
 		<td width="25%">
 			<a href="/our-programmes/PAL/">
 				<img src="/Prog-icon/SAC.jpg"/>
-				<p align="center">体陶冶计划<br>Programme for Active Learning (PAL)</p>
+				<p align="center">华文<br>Chinese</p>
 			</a>
 		</td>
 		<td width="25%">
 			<a href="/our-programmes/CCE/Sexuality-Education/">
 				<img src="/Prog-icon/PSG%20(1).jpg"/>
-				<p align="center">性教育课程<br>Sexuality Education</p>
+				<p align="center">科学<br>Science</p>
 			</a>
 		</td>
 	</tr>
 	<tr>
 		<td width="25%">
-			<a href="/our-programmes/iREAD/">
-				<img src="/Prog-icon/Family.jpg"/>
-				<p align="center">阅读计划<br>iREAD Programme</p>
+			<a href="/our-programmes/ALP/">
+				<img src="/Prog-icon/english.jpg"/>
+				<p align="center">美育<br>Aesthetics</p>
 			</a>
 		</td>
+		<td width="25%">
+			<a href="/our-programmes/LLP//">
+				<img src="/Prog-icon/TEACHERS.jpg"/>
+				<p align="center">体育与辅助活动<br>Physical Education & CCA</p>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-programmes/PAL/">
+				<img src="/Prog-icon/SAC.jpg"/>
+				<p align="center">特别辅助计划<br>Special Assistance Plan (SAP)</p>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-programmes/CCE/Sexuality-Education/">
+				<img src="/Prog-icon/PSG%20(1).jpg"/>
+				<p align="center">创意、资讯科技<br>Innovation & ICT</p>
+			</a>
+		</td>
+	</tr>
+		<tr>
+		<td width="25%">
+			<a href="/our-programmes/ALP/">
+				<img src="/Prog-icon/english.jpg"/>
+				<p align="center">学生管理与身心发展<br>Student Mgmt & Well-Being</p>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-programmes/LLP//">
+				<img src="/Prog-icon/TEACHERS.jpg"/>
+				<p align="center">公民与品格教育<br>Character and Citizenship Education (CCE)</p>
+			</a>
+		</td>
+	</tr>
+</table>
