@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 部门 Departments/创意、资讯科技 Innovation & ICT.md
       - 部门 Departments/公民与品格教育 Character and Citizenship Education.md
       - 部门 Departments/体育与辅助活动 Physical Education & CCA.md
       - 部门 Departments/美育 Aesthetics.md
