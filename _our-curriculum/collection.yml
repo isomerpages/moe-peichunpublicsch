@@ -1,5 +1,5 @@
 collections:
-  our-programmes:
+  our-curriculum:
     output: true
     order:
       - 部门 Departments/部门 Departments.md
