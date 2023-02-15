@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - 部门 Departments 1.md
       - 部门 Departments.md
       - 美育 Aesthetics.md
       - 应用学习项目 Applied Learning Programme.md
