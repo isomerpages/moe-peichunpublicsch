@@ -19,7 +19,7 @@ At the end of 6 years in Pei Chun Public School, our pupils will be passionate a
 **Instruction**<br>
 Mathematical problem solving is central to mathematics learning. It involves the acquisition and application of mathematics concepts and skills in a wide range of situations. To become effective and efficient problem solvers, our pupils learn and apply the STAR approach adopted from Polya’s problem-solving process.
 
-**<img src="/images/Our%20Programmes/Math2.jpg" width=25% height=25%>**
+**<img src="/images/Our%20Programmes/Math2.jpg" width="250" height="250">**
  
 These are some of our signature programmes:
 ![Math5](/images/Our%20Programmes/Math5.jpg)
