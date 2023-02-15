@@ -25,7 +25,7 @@ third_nav_title: 培群部门 Our Departments
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/CCE/Sexuality-Education/">
+			<a href="/our-programmes/Science/">
 				<img src="/Prog-icon/PSG%20(1).jpg"/>
 				<p align="center">科学<br>Science</p>
 			</a>
