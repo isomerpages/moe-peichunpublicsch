@@ -4,28 +4,25 @@ title: Pei Chun Public School
 description: An Isomer site of the Singapore Government
 image: /images/ICon/site-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/90 banner.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: 终身学习项目 Learning for Life Programme
-          description: ""
-          url: /our-programmes/department/permalink/LLP
-        - title: 应用学习项目 Applied Learning Programme
-          description: ""
-          url: /our-programmes/department/permalink/ALP
+        - title: 应用学习项目
+          description: Applied Learning Programme
+          url: /our-programmes/ALP/
+        - title: 终身学习项目
+          description: " Learning for Life Programme"
+          url: /our-programmes/llp/
         - title: Visit us on Facebook!
           description: ""
           url: https://www.facebook.com/PeiChunPublicSchool
-  - infobar:
-      title: Latest Update
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Curriculum Briefing for Parents
+      subtitle: NEWS & ANNOUNCEMENTS
+      description: on 3 February for P4 to P6 and 10 February for P1 to P3.
+      button: Visit the link for more information.
+      url: https://sites.google.com/moe.edu.sg/for-parents/home
+      alt: Image alt text
 ---
