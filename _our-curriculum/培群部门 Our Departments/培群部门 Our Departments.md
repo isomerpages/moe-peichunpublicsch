@@ -51,7 +51,7 @@ third_nav_title: 培群部门 Our Departments
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/CCE/Sexuality-Education/">
+			<a href="/our-programmes/Innovation-ICT/">
 				<img src="/Prog-icon/PSG%20(1).jpg"/>
 				<p align="center">创意、资讯科技<br>Innovation & ICT</p>
 			</a>
