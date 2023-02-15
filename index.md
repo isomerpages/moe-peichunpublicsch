@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/90 banner.jpg
+      background: /images/ICon/epassionate-1024x372.jpg
       key_highlights:
         - title: 应用学习项目
           description: Applied Learning Programme
