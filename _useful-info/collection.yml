@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - 申请表 Admission Forms.md
       - 学校相关服务 School Services.md
       - 其他事务 Others.md
       - 访客信息 Information for visitors.md
