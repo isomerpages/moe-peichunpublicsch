@@ -20,9 +20,9 @@ Our SAP programmes comprises of three main components:
 
 **Cultural Experiential Programmes**<br>
 To provide an immersive environment in the learning of Chinese culture, school celebrations of traditional Chinese festivals, such as Lunar New Year, Dragonboat Festival and Mid-Autumn Festival, as well as China Overseas Immersion Programme and Cultural Canteen activities are held annually. Cultural experiential programmes are also conducted for specific levels:<br>
-Primary 3: Rice Dumpling Wrapping<br>
-Primary 4: Mooncake Making<br>
-Primary 6: Chinese New Year Lo Hei & Tea Appreciation<br>
+* Primary 3: Rice Dumpling Wrapping<br>
+* Primary 4: Mooncake Making<br>
+* Primary 6: Chinese New Year Lo Hei & Tea Appreciation<br>
 
 **Integration of Chinese Arts into curriculum**<br>
 Modular Wushu, Chinese Calligraphy, Chinese Ink and Brush Painting, playing of Chinese Drums and Steel Tongue Drums are integrated in PE, Art and Music lessons, to cultivate students’ interest in Chinese Arts. 
