@@ -13,7 +13,7 @@ third_nav_title: 培群课程 Our Programmes
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/CCE/">
+			<a href="/our-programmes/LLP//">
 				<img src="/Prog-icon/TEACHERS.jpg"/>
 				<p align="center">终身学习项目<br>Learning for Life Programme (LLP)</p>
 			</a>
