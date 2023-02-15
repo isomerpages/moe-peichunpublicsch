@@ -19,7 +19,7 @@ third_nav_title: 培群课程 Our Programmes
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/Chinese/">
+			<a href="/our-programmes/PAL/">
 				<img src="/Prog-icon/SAC.jpg"/>
 				<p align="center">体陶冶计划<br>Programme for Active Learning (PAL)</p>
 			</a>
