@@ -12,7 +12,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/Prog-iconour-staff">
+			<a href="/our-programmes/CCE/">
 				<img src="/images/TEACHERS.jpg"/>
 				<p align="center">公民与品格教育<br> Character and Citizenship Education</p>
 			</a>
