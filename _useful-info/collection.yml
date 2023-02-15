@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 上课时间 School hours.md
-      - 放学事宜 Dismissal matters.md
+      - 放学事宜 Dismissal Matters.md
       - 申请表 Admission Forms.md
       - 学校相关服务 School Services.md
       - 其他事务 Others.md
