@@ -50,7 +50,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/Prog-icon/parent-support-group">
+			<a href="/our-programmes/SMgmtWB/">
 				<img src="/images/PSG%20(1).jpg"/>
 				<p align="center">学生管理与身心发展 <br> Student Management <br> and Well-Being</p>
 			</a>
