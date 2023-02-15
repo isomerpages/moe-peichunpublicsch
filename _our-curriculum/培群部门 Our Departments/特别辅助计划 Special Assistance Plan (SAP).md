@@ -4,7 +4,7 @@ permalink: /our-programmes/SAP-CL/
 description: ""
 third_nav_title: 培群部门 Our Departments
 ---
-[English](/our-programme-hidden/SAP-el/) | [Chinese](/our-programmes/SAP-cl/)
+[English](/our-programme-hidden/SAP-EL/) | [Chinese](/our-programmes/SAP-CL/)
 
 **特选课程** <br> 
 华文特选部致力于让华族文化与华文充满活力，以华族思想为根基，培养培群智者、仁者和勇者。
