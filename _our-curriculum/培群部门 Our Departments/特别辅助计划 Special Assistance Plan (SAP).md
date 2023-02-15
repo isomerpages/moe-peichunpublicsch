@@ -29,4 +29,4 @@ third_nav_title: 培群部门 Our Departments
 **中华艺术融入课堂中**<br>
 为培养学生在中华艺术方面的兴趣，学校在体育、美术及音乐课中融入了相关的学习内容，例如武术、书法、水墨画、堂鼓和钢舌鼓。
 
-
+![SAP1](/images/Our%20Programmes/SAP1.jpg)
