@@ -2,5 +2,5 @@ collections:
   our-school:
     output: true
     order:
-      - 远景、使命与价值观 Vision, Mission & Values.md
       - 校长献词 Principal’s message.md
+      - 远景、使命与价值观 Vision, Mission & Values.md
