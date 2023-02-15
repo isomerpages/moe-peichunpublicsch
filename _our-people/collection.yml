@@ -1,8 +1,0 @@
-collections:
-  our-people:
-    output: true
-    order:
-      - 校董会 School Management Committee.md
-      - 学校管理层 Key Personnel.md
-      - 校友会 Alumni.md
-      - 家长会 Parents Support Group.md
