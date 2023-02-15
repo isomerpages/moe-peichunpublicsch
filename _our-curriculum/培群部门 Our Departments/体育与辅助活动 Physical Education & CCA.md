@@ -8,6 +8,7 @@ third_nav_title: 培群部门 Our Departments
 The Physical Education (PE) Curriculum will lay a strong foundation for a lifelong pursuit of a physically active and healthy lifestyle. It will create more opportunities for our pupils to participate in recreational sports and help develop their skills, values and competencies. Students will be exposed to a range of learning areas (table below) in PE.
 
 **Learning Areas** <br>
+![PECCA1](/images/Our%20Programmes/PECCA1.jpg)
 
 Besides the above, the school also carries out other initiatives to further enhance our pupils’ learning:
 * Loan of sports equipment for play during recess.
