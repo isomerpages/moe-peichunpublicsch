@@ -18,7 +18,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/Prog-icon/school-advisory-committee">
+			<a href="/our-programmes/Chinese/">
 				<img src="/images/SAC.jpg"/>
 				<p align="center">华文 <br>Chinese</p>
 			</a>
