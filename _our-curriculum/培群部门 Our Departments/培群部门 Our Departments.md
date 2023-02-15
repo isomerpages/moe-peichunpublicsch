@@ -59,7 +59,7 @@ third_nav_title: 培群部门 Our Departments
 	</tr>
 		<tr>
 		<td width="25%">
-			<a href="/our-programmes/ALP/">
+			<a href="/our-programmes/SMgmtWB/">
 				<img src="/Prog-icon/english.jpg"/>
 				<p align="center">学生管理与身心发展<br>Student Mgmt & Well-Being</p>
 			</a>
