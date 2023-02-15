@@ -4,5 +4,37 @@ permalink: /our-programmes/Departments/
 description: ""
 third_nav_title: 培群部门 Our Departments
 ---
-
-
+<table>
+	<tr>
+		<td width="25%">
+			<a href="/our-programmes/ALP/">
+				<img src="/Prog-icon/english.jpg"/>
+				<p align="center">英文<br>English</p>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-programmes/LLP//">
+				<img src="/Prog-icon/TEACHERS.jpg"/>
+				<p align="center">数学<br>Mathematics</p>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-programmes/PAL/">
+				<img src="/Prog-icon/SAC.jpg"/>
+				<p align="center">体陶冶计划<br>Programme for Active Learning (PAL)</p>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/our-programmes/CCE/Sexuality-Education/">
+				<img src="/Prog-icon/PSG%20(1).jpg"/>
+				<p align="center">性教育课程<br>Sexuality Education</p>
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="25%">
+			<a href="/our-programmes/iREAD/">
+				<img src="/Prog-icon/Family.jpg"/>
+				<p align="center">阅读计划<br>iREAD Programme</p>
+			</a>
+		</td>
