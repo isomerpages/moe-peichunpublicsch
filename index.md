@@ -26,4 +26,11 @@ sections:
       url: https://sites.google.com/moe.edu.sg/for-parents/home
       alt: Curriculum Briefing
       image: /images/ICon/CBP icon.jpg
+  - infopic:
+      title: School Calendar
+      subtitle: NEWS & ANNOUNCEMENTS
+      description: Events scheduled for 2023.
+      button: Click here to find out more.
+      url: /calendar
+      alt: Image alt text
 ---
