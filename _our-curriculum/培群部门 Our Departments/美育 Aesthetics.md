@@ -24,4 +24,3 @@ This is a bi-termly event where we celebrate the arts and the learning of our st
 
 <b>Design my student Diary Competition (Held in Term 4)</b><br>
 Honouring the student’s voice is important for us. We invite students to submit an artwork based on a theme each year. The artworks are then selected by students and then included in the design of the cover pages, inserts and bookmark of the student diary each year - creating a student diary designed by students for students.
-
