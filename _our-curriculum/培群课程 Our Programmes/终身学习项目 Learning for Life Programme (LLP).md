@@ -14,8 +14,6 @@ Pei Chun Leadership Philosophy is strongly influenced by the Confucian classic �
 
 ![LLP1](/images/Our%20Programmes/LLP1.jpg)
 
-培群领导理念奠基于儒家经典《大学》中的“修身、齐家、治国、平天下”：要先丰富自己的学识和涵养，再把自己的家打理得井井有条，然后才能去管理国家，从而实现天下太平的理想。这句话中“个人”、“家庭”、“国家”、“世界”层层递进的关系，直接反映在培群领导理念的发展层级上，即要先修身养性（爱己），才能够与人和谐相处（爱人），进而为社区做出积极贡献，造福人群（爱众）。
-
 <b>Programme Design</r><br>
 The school adopts a two-tiered approach to broaden students’ educational experiences in leadership development. This tiered approach ensures that the needs of the students are met at different levels through core and differentiated programmes.
 
