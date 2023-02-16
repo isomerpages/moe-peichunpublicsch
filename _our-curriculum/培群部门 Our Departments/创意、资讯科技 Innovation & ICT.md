@@ -20,7 +20,7 @@ In Pei Chun, we have our 4 “I” Innovation Framework which is developed by in
 <b>Instruction</b><br>
 The innovative programmes in Pei Chun aim to provide students with the environment that supports and encourages innovation. It is delivered to develop in our students, different skill set, experiences and perspectives to encourage creativity and new ways to do things. The integration of curriculum and co-curriculum and the use of Information Communication Technology (ICT) help students strengthen and develop their innovative skills by encouraging student inquiry and experimentation, and greater ownership of their own learning process.
 
-![ICT1](/images/Our%20Programmes/ICT1.jpg)
+<img src="/images/Our%20Programmes/ICT1.jpg" alt="ICT1" style="width:400px;height:300px;">
 
 <b>Innovation & ICT Curriculum Supporting Bilingual Media Studies Project (BMSP)</b><br>
 The department supports BMSP that uses various subjects and ICT skills to bring the various aspects of the curriculum together, helping our students see the interconnectedness of their learning. The department works with the other departments to provide students with learning experiences in coding. Through the coding lessons, students are encouraged to go beyond the textbooks to work collaboratively, critically, creatively and independently to communicate their findings, to construct a better network of knowledge and skills for the 21st century.
