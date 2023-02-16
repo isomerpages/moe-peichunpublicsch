@@ -18,7 +18,8 @@ These are some of the key learning experiences during their Art & Music lessons.
 <b>School-Based Aesthetics Programme</b><br>
 <b>1. Celebrations of Learning</b><br>
 This is a bi-termly event where we celebrate the arts and the learning of our students - from exhibitions, performances and hands-on activities where students immerse themselves in the arts through various formats.
-![Art2](/images/Our%20Programmes/Art2.jpg)Exhibition of Students’ Works<br>
+<img src="/images/Our%20Programmes/Art2.jpg" alt="Art3" style="width:400px;height:250px;">
+Exhibition of Students’ Works<br>
 
 <b>Design my student Diary Competition (Held in Term 4)</b><br>
 Honouring the student’s voice is important for us. We invite students to submit an artwork based on a theme each year. The artworks are then selected by students and then included in the design of the cover pages, inserts and bookmark of the student diary each year - creating a student diary designed by students for students.
