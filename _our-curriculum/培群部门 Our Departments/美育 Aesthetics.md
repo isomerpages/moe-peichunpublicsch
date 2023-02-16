@@ -25,7 +25,7 @@ Honouring the student’s voice is important for us. We invite students to submi
 
 <b>Fashion Passion Competition (Opened to P5 and 6)</b><br>
 What better way to apply when they have learnt about the 3Rs into making wearable art? Our P5 and 6 students took up the challenge of designing and making wearable art from the old materials that they can find at home and in school. During the competition, students strut down the runway and display their innovative pieces!
-![Art3](/images/Our%20Programmes/Art3.jpg)
+<img src="/images/Our%20Programmes/Art3.jpg" alt="Art3" style="width:220px;height:300px;"> 
 One of our P6 students in their Minecraft inspired fashion piece made up of old cardboards.
 
 <b>Aesthetics Enrichment (P2 - 6 students)</b><br>
