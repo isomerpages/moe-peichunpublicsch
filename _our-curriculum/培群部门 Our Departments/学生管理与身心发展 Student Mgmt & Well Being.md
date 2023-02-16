@@ -30,5 +30,4 @@ Our school establishes rules and regulations for promoting good behaviour and en
 The school also believes that every student can learn. In Pei Chun, we have specialized personnel and programmes to provide timely and appropriate support to students with additional needs to achieve their full potential: <br>
 * <b>Learning, behaviour and/ or emotional support</b> provided by our specialized team of SEN Officers and School Counsellors. This is in the form of individual or small group intervention or skills training.<br>
 * <b>School programmes:</b> Learning Support Programme (P1 & P2), School-based Dyslexia Remediation Programme (P3 & P4), A.C.E for Life Programme (P5 & P6), to provide targeted support for these students.<br>
-* <b>Partnering and engaging</b> with stakeholders (parents and the community, including collaboration with and referral to external agencies) in order to better support these students. 
-
+* <b>Partnering and engaging</b> with stakeholders (parents and the community, including collaboration with and referral to external agencies) in order to better support these students.
