@@ -12,8 +12,8 @@ sections:
         - title: 培群脸书
           description: Visit us on Facebook!
           url: https://www.facebook.com/PeiChunPublicSchool
-        - title: Key Highlight Title
-          description: Join us as Parent Volunteer!
+        - title: 家长义工
+          description: Join us as a Parent Volunteer!
           url: ""
         - title: 应用学习项目
           description: Applied Learning Programme
