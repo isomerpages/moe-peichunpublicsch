@@ -4,7 +4,6 @@ permalink: /our-departments/Chinese-CL/
 description: ""
 third_nav_title: 培群部门 Our Departments
 ---
-
 [English](/our-curriculum-hidden/Chinese-EL/) | [Chinese](/our-programmes/Chinese-CL/)
 
 **课程大纲**<br>
@@ -15,7 +14,7 @@ third_nav_title: 培群部门 Our Departments
 
 小学华文课程分为奠基阶段（一至四年级）和定向阶段（五至六年级）。
 
-![Chinese2](/images/Our%20Programmes/Chinese2.jpg)
+![Chinese4](/images/Our%20Programmes/Chinese4.jpg)
 
 除了语文的学习，培群也照顾到学生的人文素养。课程包括中华历史课、文化课，还有传统价值观的灌输。有了语文的奠基，升上五、六年级后，学生根据自己的学习能力来自主学习，增加阅读量、拓展阅读面，同时加强写作能力。
 
