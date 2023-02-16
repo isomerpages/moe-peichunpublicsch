@@ -4,7 +4,6 @@ permalink: /our-departments/Chinese-CL/
 description: ""
 third_nav_title: 培群部门 Our Departments
 ---
-
 [English](/our-curriculum-hidden/Chinese-EL/) | [Chinese](/our-programmes/Chinese-CL/)
 
 **课程大纲**<br>
