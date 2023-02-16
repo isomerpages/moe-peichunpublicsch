@@ -9,15 +9,18 @@ sections:
   - hero:
       background: /images/ICon/epassionate-1024x372.jpg
       key_highlights:
+        - title: 培群脸书
+          description: Visit us on Facebook!
+          url: https://www.facebook.com/PeiChunPublicSchool
+        - title: Key Highlight Title
+          description: Join us as Parent Volunteer!
+          url: ""
         - title: 应用学习项目
           description: Applied Learning Programme
           url: /our-programmes/ALP/
         - title: 终身学习项目
           description: " Learning for Life Programme"
           url: /our-programmes/llp/
-        - title: 培群脸书
-          description: Visit us on Facebook!
-          url: https://www.facebook.com/PeiChunPublicSchool
   - infopic:
       title: Curriculum Briefing for Parents
       subtitle: NEWS & ANNOUNCEMENTS
