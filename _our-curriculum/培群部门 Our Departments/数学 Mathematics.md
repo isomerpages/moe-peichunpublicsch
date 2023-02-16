@@ -7,9 +7,9 @@ third_nav_title: 培群部门 Our Departments
 **Curriculum**<br>
 The Mathematics curriculum in Pei Chun Public School follows the Primary Mathematics Syllabus conceptualized by MOE, Singapore. 
 
-![Math1](/images/Our%20Programmes/Math1.jpg)
+![Math1](/images/Our%20Programmes/Math1.jpeg)
 
-We aim to nurture our pupils to:<br>
+We aim to nurture our pupils to:
 * Acquire mathematical concepts and skills for everyday use and continuous learning in Mathematics
 * Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving
 * Build confidence and foster interest in Mathematics
