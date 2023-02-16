@@ -13,14 +13,15 @@ Through the PAL programme, pupils will be able to
 
 Each PAL module consists of a 10-week programme.
 
-* P1 PAL modules are:
-	* Outdoor Education<br>
-	* Sports & Games<br>
-	* Visual Arts<br>
+* P1 PAL modules are:<br>
+	 Outdoor Education<br>
+	 Sports & Games<br>
+	 Visual Arts
+
 * P2 PAL modules are:<br>
-	* Sports & Games<br>
-	* Drama<br>
-	* Music & Movement<br>
+	Sports & Games<br>
+	Drama<br>
+	Music & Movement<br>
 	
-	Here are the snapshots of PAL lessons in action
+Here are the snapshots of PAL lessons in action
 	![PAL1](/images/Our%20Programmes/PAL1.jpg)
