@@ -3,8 +3,7 @@ title: 学校相关服务 School Services
 permalink: /useful-info/SchoolServices/
 description: ""
 ---
-School Bus Service for the year 2023:
-
+School Bus Service for the year 2023:<br>
 Name of Bus Operator: Yeap Transport Pte Ltd<br>
 Liaison Officers: Ms Hui Hui (1) / Mr Alistair Yeong (2)<br>
 Telephone: 8062 9614 / 8666 2406<br>
