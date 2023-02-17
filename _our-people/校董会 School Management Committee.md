@@ -3,7 +3,7 @@ title: 校董会 School Management Committee
 permalink: /our-people/SMC/
 description: ""
 ---
-   <!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {vertical-align:middle; padding-bottom:3.91pt; padding-left:3.91pt; padding-top:3.91pt; padding-right:3.91pt;} -->
+<!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {vertical-align:middle; padding-bottom:3.91pt; padding-left:3.91pt; padding-top:3.91pt; padding-right:3.91pt;} -->
 
 <table border="0" cellpadding="0" cellspacing="0" width="921" style="border-collapse:
  collapse;width:691pt;mso-yfti-tbllook:1184"><colgroup><col width="199" style="mso-width-source:userset;width:149pt"> <col width="490" style="mso-width-source:userset;width:367pt"> <col width="233" style="mso-width-source:userset;width:174pt"></colgroup><tbody><tr height="41" style="mso-height-source:userset;height:30.39pt"><td height="41" class="oa1" width="199" style="height:30.39pt;width:149pt"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:0pt;
