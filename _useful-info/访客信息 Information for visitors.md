@@ -11,3 +11,5 @@ description: ""
 * There is no parking lots for parents/guardians or visitors. Parents/guardians and visitors may park at the HDB car parks near the school. Exception is only given to parent/guardian who need to pick up student who is unwell.
 
 ![MAP](/images/Useful%20Info/Map1.jpg)
+
+![Dimissal](/images/Useful%20Info/Dismissal%20Details.jpg)
