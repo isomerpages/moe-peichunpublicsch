@@ -1,4 +1,5 @@
 collections:
   school-contact:
     output: true
-    order: []
+    order:
+      - 联络 Contact.md
