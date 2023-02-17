@@ -7,8 +7,8 @@ description: ""
 
 <P align="center">
 <b><u>培群校歌</b></u><br>
-词：郁达夫<br>
-</p>
+词：郁达夫<br>
+
 <P align="center">
 我们培群是文化的先锋<br>
 我们有建国兴家的重任<br>
