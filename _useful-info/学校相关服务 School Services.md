@@ -64,4 +64,3 @@ Saturdays: 10:00am – 2pm<br>
 Sale in School:<br>
 Every Friday: 2 pm to 4 pm<br>
 (Excluding Public Holidays and School Holidays)<br>
-
