@@ -3,7 +3,7 @@ title: 校歌 School Song
 permalink: /our-school/School-Song/
 description: ""
 ---
-
+<img src="/images/Our%20School/SchoolSong.jpg" alt="Math2" style="width:400px;height:250px;">
 
 <P align="center">
 培群校歌词：郁达夫<br>
