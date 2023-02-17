@@ -6,7 +6,7 @@ description: ""
 <img src="/images/Our%20School/SchoolSong.jpg" alt="Math2" style="width:400px;height:250px;">
 
 <P align="center">
-<b><u>培群校歌</b></u><br>
+	<b><u>培群校歌</u></b><br>
 词：郁达夫<br>
 
 <P align="center">
