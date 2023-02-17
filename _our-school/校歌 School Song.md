@@ -6,7 +6,10 @@ description: ""
 <img src="/images/Our%20School/SchoolSong.jpg" alt="Math2" style="width:400px;height:250px;">
 
 <P align="center">
-培群校歌词：郁达夫<br>
+<b><u>培群校歌</b></u><br>
+词：郁达夫<br>
+</p>
+<P align="center">
 我们培群是文化的先锋<br>
 我们有建国兴家的重任<br>
 发奋建设努力前进<br>
