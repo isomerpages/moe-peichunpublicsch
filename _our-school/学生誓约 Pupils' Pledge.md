@@ -5,7 +5,7 @@ description: ""
 ---
 <P align="center">
 <b><u>培群学生誓约</b></u><br>
-</p>	
+	
 <P align="center">
 我们是受培群学校栽培的一群<br>
 誓愿以传统美德为根基<br>
