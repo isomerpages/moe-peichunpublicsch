@@ -8,7 +8,7 @@ third_nav_title: 培群部门 Our Departments
 	<tr>
 		<td width="25%">
 			<a href="/our-programmes/English/">
-				<img src="/Prog-icon/english.jpg"/>
+				<img src="/images/Prog-icon/english.jpg"/>
 				<p align="center">英文<br>English</p>
 			</a>
 		</td>
