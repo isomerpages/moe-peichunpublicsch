@@ -37,4 +37,11 @@ sections:
       url: /Calendar/
       alt: Image alt text
       image: /images/ICon/Calendar.jpg
+  - infopic:
+      title: Staff Appreciation & Recognition
+      description: Show appreciation and gratitude to others who had helped us.
+      button: Click here to scan and send your appreciation.
+      url: /
+      image: /images/ICon/Appreciation.jpg
+      alt: Image alt text
 ---
