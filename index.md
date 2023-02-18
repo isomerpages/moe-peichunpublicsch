@@ -43,5 +43,5 @@ sections:
       button: Click here to scan and send your appreciation.
       url: /appreciation/
       image: /images/ICon/Appreciation.jpg
-      alt: Image alt text
+      alt: Appreciation
 ---
