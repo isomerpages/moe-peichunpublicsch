@@ -2,6 +2,7 @@ collections:
   useful-info:
     output: true
     order:
+      - Consent for Photography and Videos.md
       - 上课时间 School hours.md
       - 放学事宜 Dismissal Info.md
       - 申请表 Admission Forms.md
