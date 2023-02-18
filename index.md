@@ -36,5 +36,5 @@ sections:
       button: Click here to find out more.
       url: /Calendar/
       alt: Image alt text
-      image: /images/ICon/Calendar.png
+      image: /images/ICon/Calendar.jpg
 ---
