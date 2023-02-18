@@ -38,3 +38,9 @@ third_nav_title: 培群课程 Our Programmes
 				<p align="center">阅读计划<br>iREAD Programme</p>
 			</a>
 		</td>
+		<td width="25%">
+			<a href="/our-curriculum/Our-Programmes/CCA/">
+				<img src="/Prog-icon/Family.jpg"/>
+				<p align="center">课程辅助活动<br>CCA Programme</p>
+			</a>
+		</td>
