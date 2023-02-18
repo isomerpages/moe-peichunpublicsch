@@ -9,7 +9,7 @@ links:
   - title: 其他资讯 Useful Info
     collection: useful-info
   - title: MOE Related Links
-    url: /quicklink/
+    url: /MOELinks/
     sublinks:
       - title: Direct School Admission
         url: https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant
@@ -35,6 +35,16 @@ links:
         url: https://www.moe.gov.sg/programmes/education-and-career-guidance/
       - title: Education Technology Journey
         url: https://www.moe.gov.sg/education-in-sg/educational-technology-journey
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: Student Related Links
+    url: /StudentLinks
+    sublinks:
+      - title: Changes to PSLE in 2021
+        url: https://sites.google.com/pcps.edu.sg/pcpsinfoforpsle2021/main-info-page?authuser=0
+      - title: Enrichment Programme
+        url: https://sites.google.com/moe.edu.sg/ep-info
+      - title: Remedial Programme
+        url: https://sites.google.com/moe.edu.sg/rp-info
+      - title: School Library Resources
+        url: https://schoolibrary.moe.edu.sg/peichunpublic
+      - title: NLB DisoveReads
+        url: http://go.gov.sg/nlb-childrenandteens
