@@ -34,6 +34,7 @@ sections:
       subtitle: NEWS & ANNOUNCEMENTS
       description: Events scheduled for 2023.
       button: Click here to find out more.
-      url: /calendar
+      url: /Calendar/
       alt: Image alt text
+      image: /images/ICon/Calendar.png
 ---
