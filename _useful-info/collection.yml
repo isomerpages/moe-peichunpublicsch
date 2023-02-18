@@ -2,7 +2,7 @@ collections:
   useful-info:
     output: true
     order:
-      - 联络 Contact Us.md
+      - 学校联络 Contact Us.md
       - 上课时间 School hours.md
       - 放学事宜 Dismissal Info.md
       - 申请表 Admission Forms.md
