@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ICon/epassionate-1024x372.jpg
+      background: /images/ICon/Banner1.gif
       key_highlights:
         - title: 培群脸书
           description: Visit us on Facebook!
