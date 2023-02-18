@@ -1,4 +1,5 @@
 collections:
   staff-appreciation:
     output: true
-    order: []
+    order:
+      - Staff Appreciation and Recognition.md
