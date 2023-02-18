@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ICon/Banner.gif
+      background: /images/ICon/Banner2.gif
       key_highlights:
         - title: 培群脸书
           description: Visit us on Facebook!
