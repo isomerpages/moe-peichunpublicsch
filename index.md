@@ -20,7 +20,7 @@ sections:
           url: /our-programmes/ALP/
         - title: 终身学习项目
           description: " Learning for Life Programme"
-          url: /our-programmes/llp/
+          url: /our-programmes/LLP/
   - infopic:
       title: Curriculum Briefing for Parents
       subtitle: NEWS & ANNOUNCEMENTS
