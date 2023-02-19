@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Our Departments/.keep
-      - 华文 Chinese.md
       - 特别辅助计划 Special Assistance Plan (SAP).md
