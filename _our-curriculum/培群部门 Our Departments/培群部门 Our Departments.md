@@ -19,7 +19,7 @@ third_nav_title: 培群部门 Our Departments
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-programmes/Chinese/">
+			<a href="/our-departments/Chinese-CL/">
 				<img src="/images/Prog%20icon/chinese.jpg"/>
 				<p align="center">华文<br>Chinese</p>
 			</a>
