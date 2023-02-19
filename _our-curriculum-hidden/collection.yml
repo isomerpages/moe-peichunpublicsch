@@ -2,6 +2,7 @@ collections:
   our-curriculum-hidden:
     output: true
     order:
+      - 培群课程 Our Programmes/终身学习项目 Learning for Life Programme (LLP).md
       - 培群课程 Our Programmes/体陶冶计划 Programme for Active Learning (PAL).md
       - 培群课程 Our Programmes/性教育课程 Sexuality Education Programme.md
       - 培群课程 Our Programmes/阅读计划 iREAD Programme.md
