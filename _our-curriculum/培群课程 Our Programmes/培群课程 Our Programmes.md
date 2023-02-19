@@ -4,7 +4,6 @@ permalink: /our-programmes/ourprogrammes/
 description: ""
 third_nav_title: 培群课程 Our Programmes
 ---
-
 <table>
 	<tr>
 		<td width="25%">
@@ -40,7 +39,7 @@ third_nav_title: 培群课程 Our Programmes
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/our-curriculum/Our-Programmes/CCA/">
+			<a href="/our-programmes/CCA/">
 				<img src="/images/Prog%20icon/cca.jpg"/>
 				<p align="center">课程辅助活动<br>CCA Programme</p>
 			</a>
