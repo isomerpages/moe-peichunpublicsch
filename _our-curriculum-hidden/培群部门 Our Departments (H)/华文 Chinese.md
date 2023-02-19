@@ -4,9 +4,7 @@ permalink: /our-curriculum-hidden/Chinese-EL/
 description: ""
 third_nav_title: 培群部门 Our Departments (H)
 ---
-
-
-[English](/our-curriculum-hidden/Chinese-EL/) | [Chinese](/our-programmes/Chinese-CL/)
+[English](/our-curriculum-hidden/Chinese-EL/) | [Chinese](/our-curriculum/Chinese-CL/)
 
 **Curriculum Objectives:**<br>
 1. To develop language skills (listening, speaking, reading, writing, spoken and written interaction skills)
