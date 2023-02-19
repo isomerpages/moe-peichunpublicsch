@@ -4,9 +4,7 @@ permalink: /our-departments-hidden/SAP-EL/
 description: ""
 third_nav_title: 培群部门 Our Departments (H)
 ---
-
-
-[English](/our-programme-hidden/SAP-EL/) | [Chinese](/our-programmes/SAP-CL/)
+[English](/our-departments-hidden/SAP-EL/) | [Chinese](/our-departments/SAP-CL/)
 
 **SAP Programmes**<br>
 Pei Chun SAP programmes aim to promote and engage our students in the learning of Chinese culture and language, with the cultivation of Chinese traditional values as a foundation in nurturing Pei Chun students into Pei Chun Learners, Citizens and Leaders. 
