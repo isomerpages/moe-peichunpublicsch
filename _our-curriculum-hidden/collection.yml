@@ -2,6 +2,8 @@ collections:
   our-curriculum-hidden:
     output: true
     order:
+      - 培群部门 Our Departments (H)/公民与品格教育 Character and Citizenship Education
+        (CCE).md
       - 培群部门 Our Departments (H)/学生管理与身心发展 Student Mgmt & Well Being.md
       - 培群部门 Our Departments (H)/创意、资讯科技 Innovation & ICT.md
       - 培群部门 Our Departments (H)/.keep
