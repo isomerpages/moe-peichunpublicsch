@@ -1,5 +1,5 @@
 collections:
-  our-curriculum-hidden:
+  our-curriculum-t:
     output: true
     order:
       - 培群部门 Our Departments/.keep
