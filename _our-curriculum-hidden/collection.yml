@@ -2,6 +2,7 @@ collections:
   our-curriculum-hidden:
     output: true
     order:
+      - 培群课程 Our Programmes/课程辅助活动 Co Curriculum Activities.md
       - 培群课程 Our Programmes/.keep
       - 培群部门 Our Departments/.keep
       - 培群部门 Our Departments/培群部门 Our Departments.md
