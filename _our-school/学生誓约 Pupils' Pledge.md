@@ -4,9 +4,7 @@ permalink: /our-school/pledge/
 description: ""
 ---
 <P align="center">
-<b><u>培群学生誓约</b></u><br>
-	
-<P align="center">
+	<b><u>培群学生誓约</u></b><br><br>
 我们是受培群学校栽培的一群<br>
 誓愿以传统美德为根基<br>
 热爱学习，团结互助<br>
