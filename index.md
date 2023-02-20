@@ -25,10 +25,16 @@ sections:
       title: Curriculum Briefing for Parents
       subtitle: NEWS & ANNOUNCEMENTS
       description: 3 February for P4 to P6 and 10 February for P1 to P3.
-      button: Visit the link for more information.
+      button: Visit the link for more info.
       url: https://sites.google.com/moe.edu.sg/for-parents/home
       alt: Curriculum Briefing
       image: /images/ICon/CBP icon.jpg
+  - infopic:
+      title: Primary 1 Registration
+      button: Visit the link for more info.
+      url: /useful-info/Admission-Forms/
+      image: /images/ICon/PCPS 7 Students.png
+      alt: Image alt text
   - infopic:
       title: School Calendar
       subtitle: NEWS & ANNOUNCEMENTS
