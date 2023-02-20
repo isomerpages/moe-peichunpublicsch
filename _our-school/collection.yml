@@ -1,0 +1,9 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - 培群校训 School Mottos.md
+      - 远景、使命与价值观 Vision, Mission & Values.md
+      - 校歌 School Song.md
+      - 学生誓约 Pupils' Pledge.md
+      - 传承 Our Heritage.md

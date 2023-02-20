@@ -1,0 +1,5 @@
+collections:
+  staff-appreciation:
+    output: true
+    order:
+      - Staff Appreciation and Recognition.md
