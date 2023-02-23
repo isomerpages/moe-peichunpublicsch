@@ -4,8 +4,6 @@ permalink: /our-departments/CCE/
 description: ""
 third_nav_title: 培群部门 Our Departments
 ---
-
-
 **PCPS CCE Vision**<br>
 Fostering a caring and enabling school environment to support development of the Passionate and Collaborative Learner, Patriotic and Caring Citizen and Proactive and Creative Leader.
 
@@ -64,4 +62,4 @@ The SS curriculum supports the school vision of creating Patriotic and Caring Ci
 The SS syllabus is designed in three broad clusters entitled Discovering Self and Immediate Environment (P1 & P2), Understanding Singapore in the Past and Present (P3 & P4) and Appreciating the World and Region We Live In (P5 & P6). 
 
 **2.4 Student Leadership Development – Pei Chun Leaders Programme**<br>
-Link to https://peichunpublicschool.edu.sg/our-programmes/LLP/
+[Click here to read more on Student Leaders Programme.](https://www.peichunpublic.moe.edu.sg/our-programmes/LLP/)
