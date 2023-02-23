@@ -9,3 +9,4 @@ As a collaborative effort between the English and Chinese Departments to cultiva
 iRead is an activity-based reading programme that integrates the EL Reading Programme, the CL Reading Programme and the Library Instructional Programme within a single curriculum platform.  This whole school approach aims to encourage students to read, and is supported by a set of recommended texts, activity sheets and informal assessments.  It aims to develop in students a love for Reading (Enjoyment), provide an integrated platform for informal assessment (Achievement) and deliver a sustainable approach to develop students’ core skills within the curriculum (Development).
 
 [Click here to download programme booklets.](https://sites.google.com/moe.edu.sg/iread-prog)
+[Click here to view Pei Chun School Library Resources.](https://schoolibrary.moe.edu.sg/peichunpublic/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)[Click here to access NLB DisoveReads.](https://go.gov.sg/nlb-childrenandteens)
