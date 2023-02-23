@@ -13,7 +13,7 @@ sections:
           description: Visit us on Facebook!
           url: https://www.facebook.com/PeiChunPublicSchool
         - title: 课程辅助活动
-          description: Co Curriculum Activities
+          description: Co-Curriculum Activities
           url: /our-programmes/CCA/
         - title: 应用学习项目
           description: Applied Learning Programme

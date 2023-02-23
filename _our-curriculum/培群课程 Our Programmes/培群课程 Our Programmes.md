@@ -42,5 +42,14 @@ third_nav_title: 培群课程 Our Programmes
 			<a href="/our-programmes/CCA/">
 				<img src="/images/Prog%20icon/cca.jpg"/>
 				<p align="center">课程辅助活动<br>CCA Programme</p>
+					<td width="25%">
+			<a href="https://sites.google.com/moe.edu.sg/rp-info">
+				<img src="/images/Prog%20icon/Remedial.jpg"/>
+				<p align="center">课程<br>Remedial Programme</p>
+			</a>
+											<td width="25%">
+			<a href="https://sites.google.com/moe.edu.sg/ep-info">
+				<img src="/images/Prog%20icon/Enrichment.jpg"/>
+				<p align="center">增益课程<br>Enrichment Programme</p>
 			</a>
 		</td>
