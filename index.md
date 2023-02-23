@@ -12,9 +12,9 @@ sections:
         - title: 培群脸书
           description: Visit us on Facebook!
           url: https://www.facebook.com/PeiChunPublicSchool
-        - title: 家长义工
-          description: Join us as a Parent Volunteer!
-          url: /useful-info/Admission-Forms/
+        - title: 课程辅助活动
+          description: Co Curriculum Activities
+          url: /our-programmes/CCA/
         - title: 应用学习项目
           description: Applied Learning Programme
           url: /our-programmes/ALP/
