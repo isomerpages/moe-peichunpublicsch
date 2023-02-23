@@ -8,7 +8,7 @@ links:
     collection: our-curriculum
   - title: 其他资讯 Useful Info
     collection: useful-info
-  - title: MOE Related Links
+  - title: 教育部相关链接 MOE Related Links
     url: https://peichunpublic.moe.edu.sg
     sublinks:
       - title: Direct School Admission
@@ -33,15 +33,11 @@ links:
         url: https://www.moe.gov.sg/programmes/education-and-career-guidance/
       - title: Education Technology Journey
         url: https://www.moe.gov.sg/education-in-sg/educational-technology-journey
+      - title: Changes to PSLE wef 2021
+        url: https://sites.google.com/pcps.edu.sg/pcpsinfoforpsle2021/main-info-page?authuser=0
   - title: Student Related Links
     url: https://peichunpublic.moe.edu.sg
     sublinks:
-      - title: Changes to PSLE wef 2021
-        url: https://sites.google.com/pcps.edu.sg/pcpsinfoforpsle2021/main-info-page?authuser=0
-      - title: Enrichment Programme
-        url: https://sites.google.com/moe.edu.sg/ep-info
-      - title: Remedial Programme
-        url: https://sites.google.com/moe.edu.sg/rp-info
       - title: School Library Resources
         url: https://schoolibrary.moe.edu.sg/peichunpublic
       - title: NLB DisoveReads
