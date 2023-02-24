@@ -1,9 +1,10 @@
 ---
-title: 体陶冶计划 Programme for Active Learning (PAL)
-permalink: /our-programmes-hidden/PAL/
+title: 艺体陶冶计划 Programme for Active Learning (PAL)
+permalink: /our-programmes/PAL/
 description: ""
 third_nav_title: 培群课程 Our Programmes
 ---
+
 In Pei Chun, our Programme for Active Learning (PAL) provides a great emphasis on the development of social and emotional skills for Primary 1 and 2 pupils. In PAL, pupils are exposed to varied and fun learning experiences via the five domains: Sports and Games, Outdoor Education, Performing Arts, Drama and Visual Arts. 
 
 Through the PAL programme, pupils will be able to
