@@ -21,7 +21,7 @@ third_nav_title: 培群课程 Our Programmes
 		<td width="25%">
 			<a href="/our-programmes/PAL/">
 				<img src="/images/Prog%20icon/pal.jpg"/>
-				<p align="center">体陶冶计划<br>Programme for Active Learning (PAL)</p>
+				<p align="center">艺体陶冶计划<br>Programme for Active Learning (PAL)</p>
 			</a>
 		</td>
 		<td width="25%">
