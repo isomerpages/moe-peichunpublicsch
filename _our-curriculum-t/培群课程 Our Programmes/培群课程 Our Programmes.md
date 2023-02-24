@@ -43,7 +43,7 @@ third_nav_title: 培群课程 Our Programmes
 				<img src="/images/Prog%20icon/cca.jpg"/>
 				<p align="center">课程辅助活动<br>CCA Programme</p>
 					<td width="25%">
-			<a href="/our-programmes-hidden/CCA/">
+			<a href="/our-programmes-hidden/RP/">
 				<img src="/images/Prog%20icon/Remedial.jpg"/>
 				<p align="center">课后辅助计划<br>Remedial Programme</p>
 			</a>
