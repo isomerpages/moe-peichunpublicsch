@@ -54,7 +54,7 @@ third_nav_title: 培群课程 Our Programmes
 			</a>
 	<tr>
 		<td width="25%">
-			<a href="/our-programmes/ALP/">
+			<a href="/our-curriculum-t/Our-Programmes/pcp/">
 				<img src="/images/Our%20Programmes/character.jpg"/>
 				<p align="center">培群品格教育 <br>The Pei Chun Character</p>
 			</a>
