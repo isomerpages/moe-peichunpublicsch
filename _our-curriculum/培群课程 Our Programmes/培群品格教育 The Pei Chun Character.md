@@ -4,7 +4,7 @@ permalink: /our-curriculum/Our-Programmes/PCC/
 description: ""
 third_nav_title: 培群课程 Our Programmes
 ---
-[English](/our-curriculum/Our-Programmes/PCC/) | [Chinese](/our-curriculum-T/Our-Programmes/PCC/)
+[English](/our-curriculum/Our-Programmes/PCC/) | [Chinese](/our-curriculum-t/Our-Programmes/PCC/)
 
 <img src="/images/Our%20Programmes/PC%20programme.jpg" alt="Math2" style="width:500px;height:250px;"> 
 
