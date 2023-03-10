@@ -4,7 +4,6 @@ permalink: /our-programmes/LLP/
 description: ""
 third_nav_title: 培群课程 Our Programmes
 ---
-
 The Pei Chun Leaders Programme is the school’s Learning for Life Programme that forms an integral part of the school’s Character and Citizenship education.<br>
 
 <b>Programme Objectives</b><br>
@@ -15,7 +14,7 @@ Pei Chun Leadership Philosophy is strongly influenced by the Confucian classic �
 
 ![LLP1](/images/Our%20Programmes/LLP1.jpg)
 
-<b>Programme Design</r><br>
+<b>Programme Design</b><br>
 The school adopts a two-tiered approach to broaden students’ educational experiences in leadership development. This tiered approach ensures that the needs of the students are met at different levels through core and differentiated programmes.
 
 ![LLP2](/images/Our%20Programmes/LLP2.jpg)

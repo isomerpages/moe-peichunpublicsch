@@ -52,4 +52,10 @@ third_nav_title: 培群课程 Our Programmes
 				<img src="/images/Prog%20icon/Enrichment.jpg"/>
 				<p align="center">增益课程<br>Enrichment Programme</p>
 			</a>
-		</td>
+	<tr>
+		<td width="25%">
+			<a href="/our-curriculum/Our-Programmes/PCC/">
+				<img src="/images/Our%20Programmes/character.jpg"/>
+				<p align="center">培群品格教育 <br>The Pei Chun Character</p>
+			</a>
+		</td>																	

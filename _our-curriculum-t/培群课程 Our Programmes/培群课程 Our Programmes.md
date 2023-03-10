@@ -43,7 +43,7 @@ third_nav_title: 培群课程 Our Programmes
 				<img src="/images/Prog%20icon/cca.jpg"/>
 				<p align="center">课程辅助活动<br>CCA Programme</p>
 					<td width="25%">
-			<a href="/our-programmes-hidden/RP/">
+			<a href="/Our-Programmes/RP/">
 				<img src="/images/Prog%20icon/Remedial.jpg"/>
 				<p align="center">课后辅助计划<br>Remedial Programme</p>
 			</a>
@@ -52,4 +52,11 @@ third_nav_title: 培群课程 Our Programmes
 				<img src="/images/Prog%20icon/Enrichment.jpg"/>
 				<p align="center">增益课程<br>Enrichment Programme</p>
 			</a>
+	<tr>
+		<td width="25%">
+			<a href="/our-curriculum-t/Our-Programmes/pcp/">
+				<img src="/images/Our%20Programmes/character.jpg"/>
+				<p align="center">培群品格教育 <br>The Pei Chun Character</p>
+			</a>
+		</td>																	
 		</td>

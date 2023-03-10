@@ -3,11 +3,12 @@ title: 申请表 Admission Forms
 permalink: /useful-info/Admission-Forms/
 description: ""
 ---
-
 <b><u>Primary 1 Registration:</u></b> <br>
 1. [2022 Ballot History]()<br>
-2. [Membership Application Form](/files/Admission/Membership-Application-Form.pdf)<br>
-3. [Primary 1 (P1) Registration - MOE Site](https://www.moe.gov.sg/primary/p1-registration)
+
+<b><u>Alumni Association</u></b><br>
+1.  [Membership Application Form](/files/Admission/Membership-Application-Form.pdf)<br>
+2.  [Primary 1 (P1) Registration - MOE Site](https://www.moe.gov.sg/primary/p1-registration)
 
 
 <b><u>Parent Volunteer:</u></b><br>
