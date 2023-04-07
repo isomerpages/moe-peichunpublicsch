@@ -27,7 +27,7 @@ sections:
       button: Visit the link for more info.
       url: https://sites.google.com/moe.edu.sg/for-parents/home
       alt: Curriculum Briefing
-      image: /images/ICon/CBP icon.jpg
+      image: /images/ICon/parentmeetingv1.PNG
   - infopic:
       title: Primary 1 Registration
       button: Visit the link for more info.
