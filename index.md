@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ICon/90thbannerx.png
+      background: /images/ICon/banner 90fd.jpg
       key_highlights:
         - title: 培群脸书
           description: Visit us on Facebook!
