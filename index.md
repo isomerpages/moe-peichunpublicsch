@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ICon/Banner2.gif
+      background: /images/ICon/fd90v4.png
       key_highlights:
         - title: 培群脸书
           description: Visit us on Facebook!
@@ -23,12 +23,11 @@ sections:
           url: /our-programmes/LLP/
   - infopic:
       title: Curriculum Briefing for Parents
-      subtitle: NEWS & ANNOUNCEMENTS
       description: 3 February for P4 to P6 and 10 February for P1 to P3.
       button: Visit the link for more info.
       url: https://sites.google.com/moe.edu.sg/for-parents/home
       alt: Curriculum Briefing
-      image: /images/ICon/CBP icon.jpg
+      image: /images/ICon/parentmeetingv1.PNG
   - infopic:
       title: Primary 1 Registration
       button: Visit the link for more info.
@@ -37,7 +36,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: School Calendar
-      subtitle: NEWS & ANNOUNCEMENTS
       description: Events scheduled for 2023.
       button: Click here to find out more.
       url: /Calendar/
