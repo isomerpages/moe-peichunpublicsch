@@ -23,7 +23,7 @@ sections:
           url: /our-programmes/LLP/
   - infopic:
       title: Staff Appreciation & Recognition (STAR)
-      button: Click here to nomination.
+      button: Click here to nominate.
       url: " https://bit.ly/41Z8wTA"
       image: /images/ICon/star 2023.jpg
       alt: STAR
