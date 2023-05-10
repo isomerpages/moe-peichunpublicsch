@@ -25,7 +25,7 @@ sections:
       title: Staff Appreciation & Recognition (STAR)
       button: Click here to nominate.
       url: " https://bit.ly/41Z8wTA"
-      image: /images/ICon/star 2023.jpg
+      image: /images/ICon/star12.jpeg
       alt: STAR
   - infopic:
       title: Primary 1 Registration
