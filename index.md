@@ -22,12 +22,11 @@ sections:
           description: " Learning for Life Programme"
           url: /our-programmes/LLP/
   - infopic:
-      title: Curriculum Briefing for Parents
-      description: 3 February for P4 to P6 and 10 February for P1 to P3.
-      button: Visit the link for more info.
-      url: https://sites.google.com/moe.edu.sg/for-parents/home
-      alt: Curriculum Briefing
-      image: /images/ICon/parentmeetingv1.PNG
+      title: Staff Appreciation & Recognition (STAR)
+      button: Click here to nomination.
+      url: " https://bit.ly/41Z8wTA"
+      image: /images/ICon/star 2023.jpg
+      alt: STAR
   - infopic:
       title: Primary 1 Registration
       button: Visit the link for more info.
@@ -41,10 +40,4 @@ sections:
       url: /Calendar/
       alt: Image alt text
       image: /images/ICon/Calendar.jpg
-  - infopic:
-      title: Staff Appreciation & Recognition (STAR)
-      button: Click here to nomination.
-      url: " https://bit.ly/41Z8wTA"
-      image: /images/ICon/star 2023.jpg
-      alt: STAR
 ---
