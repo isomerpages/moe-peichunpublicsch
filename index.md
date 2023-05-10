@@ -41,4 +41,10 @@ sections:
       url: /Calendar/
       alt: Image alt text
       image: /images/ICon/Calendar.jpg
+  - infopic:
+      title: Staff Appreciation & Recognition (STAR)
+      button: Click here to nomination.
+      url: " https://bit.ly/41Z8wTA"
+      image: /images/ICon/star 2023.jpg
+      alt: STAR
 ---
