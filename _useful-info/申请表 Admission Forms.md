@@ -4,7 +4,7 @@ permalink: /useful-info/Admission-Forms/
 description: ""
 ---
 <b><u>Primary 1 Registration:</u></b> <br>
-1. [2022 Ballot History](/files/Admission/2022-Ballot-history.pdf)<br>
+1. [Ballot History](/files/Admission/2023%20ballot%20history.pdf)
 
 <b><u>Alumni Association</u></b><br>
 1.  [Membership Application Form](/files/Admission/Membership-Application-Form.pdf)<br>
