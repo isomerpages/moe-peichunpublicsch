@@ -12,4 +12,4 @@ For School Bus Service Registration, [please click this link to register](https:
 
 ![bus](/images/Useful%20Info/busoperator.JPG)
 
-* The bus fares will be collected over 9 months in Jan, Feb, Mar, Apr, May, Jul, Aug, Sept and Oct. There will be no collections for Jun, Nov and Dec but services will still be provided on school days in Jun, Nov and Dec, if any. The Contract may be terminated by the Parent by giving the bus operator at least two months’ notice in writing.</b></b>
+* The bus fares will be collected over 9 months in Jan, Feb, Mar, Apr, May, Jul, Aug, Sept and Oct. There will be no collections for Jun, Nov and Dec but services will still be provided on school days in Jun, Nov and Dec, if any. The Contract may be terminated by the Parent by giving the bus operator at least two months’ notice in writing.<br></b></b>
