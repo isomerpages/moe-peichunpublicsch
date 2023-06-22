@@ -3,4 +3,4 @@ title: 校董会 School Management Committee
 permalink: /our-people/SMC/
 description: ""
 ---
-![SMClist](/images/Our%20People/SMClist.jpg)
+![smc](/images/Our%20People/smclist%202.jpg)
