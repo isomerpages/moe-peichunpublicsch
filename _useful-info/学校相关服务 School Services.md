@@ -3,14 +3,6 @@ title: 学校相关服务 School Services
 permalink: /useful-info/SchoolServices/
 description: ""
 ---
-<b><u>School Bus Service for the year 2023:</u></b><br>
-Name of Bus Operator: Yeap Transport Pte Ltd<br>
-Liaison Officers: Ms Hui Hui (1) / Mr Alistair Yeong (2)<br>
-Telephone: 8062 9614 / 8666 2406<br>
-Email: [pcpsbus@yeaptpt.com ](pcpsbus@yeaptpt.com )<br>
-For School Bus Service Registration, [please click this link to register.](https://ytmsonline.yeaptpt.com/onlineregistration_site/Register?sitename=pcps)<br>
-For more information on School Services by Yeap Transport, please [click here.](/files/School%20Services/SN22_263_Zoom-Webinar-Session-Pei-Chun-Public-School.pdf)
-
 <b><u>Student Care Service </u></b><br>
 Ace@Work Schoolcare Pte Ltd <br>
 School Student Care Center (SCC) Supervisor: Miss Erika Del Rosario <br>
