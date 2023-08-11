@@ -30,7 +30,7 @@ Telephone: 87648106<br>
 For urgent cases, please email to Health Promotion Board Dental Centre at [YPS@hpb.gov.sg](YPS@hpb.gov.sg)
 
 <b><u>School Bookshop</u></b><br>
-Telephone: To be informed <br>
+Telephone: 8684 7532 <br>
 Open to Parents/Guardians on:<br>
 Wed/Thu/Fri: 2.00pm to 4.00pm<br>
 Located near Gate 4 along Lorong 6 road<br>
