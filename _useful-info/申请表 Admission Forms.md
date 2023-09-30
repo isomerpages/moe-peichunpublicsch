@@ -13,7 +13,7 @@ description: ""
 
 <b><u>Parent Volunteer:</u></b><br>
 * Parent Volunteer applications for children born in 2019. <br>
-* Parent Volunteer applications for Singapore Citizen children born in 2019 are now open. The closing date is strictly 30 Sep 2023. [Click here to down the form.](/files/Admission/2023%20pv%20form.pdf) <br>
+* Parent Volunteer applications for Singapore Citizen children born in 2019 are now closed as of 01 October 2023. <br>
 * Only shortlisted applicants will be notified. <br>
 * Parent Volunteer Applications are available in the third quarter annually for Singapore Citizen children born in the following years: <br>
 ![](/images/Useful%20Info/parentvol2.jpg)
