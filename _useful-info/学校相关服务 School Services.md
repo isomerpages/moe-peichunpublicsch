@@ -2,6 +2,7 @@
 title: 学校相关服务 School Services
 permalink: /useful-info/SchoolServices/
 description: ""
+variant: markdown
 ---
 <b><u>Student Care Service </u></b><br>
 Ace@Work Schoolcare Pte Ltd <br>
@@ -35,12 +36,8 @@ Open to Parents/Guardians on:<br>
 Wed/Thu/Fri: 2.00pm to 4.00pm<br>
 Located near Gate 4 along Lorong 6 road<br>
 (Excluding Public Holidays and School Holidays)<br>
-2023 Booklist:<br>
-|[Primary 1](/files/School%20Services/2023%20P1%20booklist.pdf)| [Primary 2](/files/School%20Services/2023%20P2%20booklist.pdf)|   <br>
-|[Primary 3 (STD)](/files/School%20Services/2023%20P3%20STD%20booklist.pdf)| [Primary 3 (HCL)](/files/School%20Services/2023%20P3%20HCL%20booklist.pdf)|<br>
-|[Primary 4 (STD)](/files/School%20Services/2023%20P4%20STD%20booklist.pdf)| [[Primary 4 (HCL)](/files/School%20Services/2023%20P4%20HCL%20booklist.pdf)|<br>
-|[Primary 5 (STD)](/files/School%20Services/2023%20P5%20STD%20booklist.pdf)| [[Primary 5 (HCL)](/files/School%20Services/2023%20P5%20HCL%20booklist.pdf)|[Primary 5 (FD)](/files/School%20Services/2023%20P5%20FD%20booklist.pdf)| <br>
-|[Primary 6 (STD)](/files/School%20Services/2023%20P6%20STD%20booklist.pdf)| [[Primary 6 (HCL)](/files/School%20Services/2023%20P6%20HCL%20booklist.pdf)|[[Primary 6 (FD)](/files/School%20Services/2023%20P6%20FD%20booklist.pdf)|
+Click on the link below to download 
+[2024 School Booklist](https://drive.google.com/drive/folders/14YvSZ5iXTqfExPLiD9mKtfjT8aIi8ue9?usp=sharing)
 
 
 <b><u>School Uniform (Jeep Sing Fashion)</u></b><br>
