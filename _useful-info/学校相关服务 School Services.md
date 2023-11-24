@@ -48,7 +48,7 @@ Blk 4012 Ang Mo Kio Ave 10
 Operating Hours: <br>
 Monday – Friday: 10:00am – 6:00pm<br>
 Saturdays: 10:00am – 2pm<br>
-[Click here to read more on sales schedule and mode for Purchase of Uniform during the holiday.](/files/School%20Services/PCPS_Uniform_Sale_Schedule_2023.pdf)
+Click here to read more on [sales schedule and mode for Purchase of Uniform during the holiday.](/files/School%20Services/PCPS_Uniform_Sale_Schedule_2023.pdf)
 
 <u>Sale in School:</u><br>
 Operating Hours: <br>
