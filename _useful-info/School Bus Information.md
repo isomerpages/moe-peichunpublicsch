@@ -4,7 +4,7 @@ permalink: /useful-info/schoolbus/
 description: ""
 variant: markdown
 ---
-Yeap Transport Pte Ltd<br>
+<b>Yeap Transport Pte Ltd</b><br>
 Contact: <br>Ms Nuradlina (Main) at 8684 7724,<br> 
 Mr Bryan Ngan (Alternative) at 9479 5996 <br>
 Email: pcpsbus@yeaptpt.com<br>
