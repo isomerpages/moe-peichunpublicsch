@@ -11,7 +11,6 @@ Telephone: 6677 4957/ 9007 4498 <br>
 Email: [feedbackpcps@aceatwork.com.sg](feedbackpcps@aceatwork.com.sg)<br>
 Please click here to [view 2023 dates SCC will be closed (updated on 18 Sept 2023).](/files/School%20Services/year%202023%20closure%20notice%20updated%2018sept.pdf)<br>
 Please click here for [Student Care Registration Form. ](/files/School%20Services/2022-PCPS-student-care-registration-form.pdf) <br>
-(Registration Closes on 12 November 2021)
 
 <b><u>PCPS Dental Clinic: </u></b><br>
 Telephone: 8909 0547<br>
@@ -49,6 +48,7 @@ Blk 4012 Ang Mo Kio Ave 10
 Operating Hours: <br>
 Monday – Friday: 10:00am – 6:00pm<br>
 Saturdays: 10:00am – 2pm<br>
+Click here to read more on [sales schedule and mode for Purchase of Uniform during the holiday.](/files/School%20Services/PCPS_Uniform_Sale_Schedule_2023.pdf)
 
 <u>Sale in School:</u><br>
 Operating Hours: <br>

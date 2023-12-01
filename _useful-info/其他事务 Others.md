@@ -2,6 +2,7 @@
 title: 其他事务 Others
 permalink: /useful-info/Others/
 description: ""
+variant: markdown
 ---
 <b><u>Forms:</u></b>
 1. [Leave of Absence Application Form](https://form.gov.sg/60caf777e5a94500130b40fe)
@@ -14,4 +15,4 @@ description: ""
 
 
 <b><u>Resources for download:</u></b>
-* [弟子规伴我行_中英译文](/files/Other%20Forms/DiZiGui-Daily-Handbook.pdf)
+* [弟子规伴我行_中英译文](https://go.gov.sg/pcps-dizigui)
