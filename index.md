@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ICon/fd90v4.png
+      background: /images/ICon/Banner_2.jpg
       key_highlights:
         - title: 培群脸书
           description: Visit us on Facebook!
@@ -19,12 +19,12 @@ sections:
           description: Applied Learning Programme
           url: /our-programmes/ALP/
         - title: 终身学习项目
-          description: " Learning for Life Programme"
+          description: Learning for Life Programme
           url: /our-programmes/LLP/
   - infopic:
       title: Staff Appreciation & Recognition (STAR)
       button: Click here to nominate.
-      url: " https://bit.ly/41Z8wTA"
+      url: https://bit.ly/41Z8wTA
       image: /images/ICon/star12.jpeg
       alt: STAR
   - infopic:
