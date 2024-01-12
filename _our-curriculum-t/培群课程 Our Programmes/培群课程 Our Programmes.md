@@ -45,7 +45,7 @@ variant: markdown
 				<p align="center">课程辅助活动<br>CCA Programme</p>
 					</a></td><td width="25%">
 			<a href="/our-programmes/as/">
-				<img src="/images/Prog%20icon/Remedial.jpg">
+				<img src="/images/Our%20Programmes/AS_iCON.jpg">
 				<p align="center">课后辅助计划<br>Academic Support (AS)</p>
 			</a>
 											</td><td width="25%">
