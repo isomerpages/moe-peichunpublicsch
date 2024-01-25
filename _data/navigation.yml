@@ -1,0 +1,35 @@
+logo: /images/ICon/Logo Sch Name.jpg
+links:
+  - title: 培群概况 Our School
+    collection: our-school
+  - title: 培群团队 Our People
+    collection: our-people
+  - title: 培群课程 Our Curriculum
+    collection: our-curriculum
+  - title: 其他资讯 Useful Info
+    collection: useful-info
+  - title: 教育部相关链接 MOE Related Links
+    url: https://peichunpublic.moe.edu.sg
+    sublinks:
+      - title: Direct School Admission
+        url: https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant
+      - title: Financial Assistance Scheme
+        url: https://www.moe.gov.sg/financial-matters/financial-assistance
+      - title: MOE Website
+        url: https://www.moe.gov.sg/
+      - title: MOE Sexuality Education
+        url: https://peichunpublic.moe.edu.sg/sexuality-education/
+      - title: MOE PSLE Scoring System
+        url: https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html
+      - title: Primary 1 Registration
+        url: https://www.moe.gov.sg/admissions/primary-one-registration
+      - title: School Finder
+        url: https://www.moe.gov.sg/schoolfinder
+      - title: School Bag
+        url: https://www.moe.gov.sg/schoolfinder
+      - title: Parent Kit
+        url: https://www.moe.gov.sg/parentkit
+      - title: Education & Career Guidance
+        url: https://www.moe.gov.sg/programmes/education-and-career-guidance/
+      - title: Education Technology Journey
+        url: https://www.moe.gov.sg/education-in-sg/educational-technology-journey
