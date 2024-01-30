@@ -1,4 +1,5 @@
 collections:
   moe-related-links:
     output: true
-    order: []
+    order:
+      - Moe Sexuality Education in Schools.md
