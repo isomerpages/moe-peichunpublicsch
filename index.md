@@ -35,7 +35,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: School Calendar
-      description: Events scheduled for 2023.
       button: Click here to find out more.
       url: /Calendar/
       alt: Image alt text
