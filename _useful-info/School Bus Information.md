@@ -5,8 +5,7 @@ description: ""
 variant: markdown
 ---
 <b>Yeap Transport Pte Ltd</b><br>
-Contact: <br>Ms Nuradlina (Main) at 8684 7724,<br> 
-Mr Bryan Ngan (Alternative) at 9479 5996 <br>
+Contact: <br>Mr Joseph (Main) at 8684 7724,<br> 
 Email: pcpsbus@yeaptpt.com<br>
 For School Bus Service Registration, <br>
 [please click this link to register.](https://ytmsonline.yeaptpt.com/onlineregistration_site/Register?sitename=pcps)
