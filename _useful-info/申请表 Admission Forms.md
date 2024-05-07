@@ -2,9 +2,10 @@
 title: 申请表 Admission Forms
 permalink: /useful-info/Admission-Forms/
 description: ""
+variant: markdown
 ---
 <b><u>Primary 1 Registration:</u></b> <br>
-1. [Ballot History](/files/Admission/2023%20ballot%20history.pdf)
+1. [Ballot History](/files/Admission/Ballot_history__07may2024_.pdf)
 
 <b><u>Alumni Association</u></b><br>
 1.  [Membership Application Form](/files/Admission/Membership-Application-Form.pdf)<br>
