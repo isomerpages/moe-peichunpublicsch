@@ -9,6 +9,4 @@ Contact: <br>Mr Joseph (Main) at 8684 7724,<br>
 Email: pcpsbus@yeaptpt.com<br>
 For School Bus Service Registration, <br>
 [please click this link to register.](https://ytmsonline.yeaptpt.com/onlineregistration_site/Register?sitename=pcps)
-
-
-![](/images/Useful%20Info/bus%202024.jpg)
+![](/images/Useful%20Info/School_Bus_Info.jpg)
