@@ -8,7 +8,7 @@ variant: markdown
 1. [Ballot History](/files/Admission/Ballot_history__07may2024_.pdf)
 
 <b><u>Alumni Association</u></b><br>
-1.  [Membership Application Form](/files/Admission/Membership-Application-Form.pdf)<br>
+1.  [Membership Application Form](https://peichunalumni.sg/membership)<br>
 2.  [Primary 1 (P1) Registration - MOE Site](https://www.moe.gov.sg/primary/p1-registration)
 
 
