@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Staff Appreciation & Recognition (STAR)
       button: Click here to nominate.
-      url: https://bit.ly/41Z8wTA
+      url: https://docs.google.com/forms/d/e/1FAIpQLSc5mCxVRhXpJnlCc0K41uP7bcWjFpjedp3BA9lru7NsQTwPWw/viewform
       image: /images/ICon/star12.jpeg
       alt: STAR
   - infopic:
