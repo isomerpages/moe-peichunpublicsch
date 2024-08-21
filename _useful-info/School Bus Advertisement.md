@@ -25,8 +25,7 @@ Procedure below.</p>
 </ol>
 <p></p>
 <p><strong><u>Application Procedure</u></strong>
-</p>
-<p>Complete the <a href="/files/School Bus Information/2__Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal – Annex A</a> (Information
+<br>Complete the <a href="/files/School Bus Information/2__Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal – Annex A</a> (Information
 Required from Vendor)</p>
 <p>Submit the required documents (refer to para 6.2 in the call for proposals)
 in a sealed envelope by the closing date (10 Sep 2024, 1700 hrs) to the
