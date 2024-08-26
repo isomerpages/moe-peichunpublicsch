@@ -1,0 +1,5 @@
+collections:
+  temp:
+    output: true
+    order:
+      - School Bus Advertisement.md
