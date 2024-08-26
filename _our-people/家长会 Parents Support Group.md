@@ -2,8 +2,9 @@
 title: 家长会 Parents Support Group
 permalink: /our-people/psg/
 description: ""
+variant: markdown
 ---
-![PSG](/images/Our%20People/PSG.jpg)
+![](/images/Our%20People/PSG_2024.jpg)
 
 No school can achieve great things without the support of her stakeholders.
 
