@@ -2,7 +2,6 @@ collections:
   useful-info:
     output: true
     order:
-      - School Bus Advertisement.md
       - 学校联络 Contact Us.md
       - 上课时间 School hours.md
       - 放学事宜 Dismissal Info.md
@@ -12,4 +11,5 @@ collections:
       - 访客信息 Information for visitors.md
       - 科技学习平台 Technology Learning Platform.md
       - School Bus Information.md
+      - School Bus Advertisement.md
       - Consent for Photography and Videos.md
