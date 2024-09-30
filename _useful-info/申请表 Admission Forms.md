@@ -13,7 +13,7 @@ variant: markdown
 
 
 <b><u>Parent Volunteer:</u></b><br>
-* [Parent Volunteer applications for Singapore Citizen children born in 2020 (and 1 Jan 2021) are now open until 30 Sep 2024 via this application form.](https://form.gov.sg/66c5573f181824dbd27cb3a3) <br>
+* Parent Volunteer applications for Singapore Citizen children born in 2020 (and 1 Jan 2021) are now Closed. <br>
 * Only shortlisted applicants will be notified. <br>
 * Parent Volunteer Applications are available in the third quarter annually for Singapore Citizen children born in the following years: <br>
 ![](/images/Useful%20Info/2022_Table.jpg)
