@@ -6,9 +6,11 @@ variant: tiptap
 ---
 <h4><strong>Details of School Bus Service</strong></h4>
 <p><strong><u>Transland Singapore Pte Ltd </u></strong>
-<br>Contact: Details will be released later on
-<br>Email: Details will be released later on
-<br>Details on school bus registration for 2025 will be released later on.</p>
+<br>Contact: 6560 8032&nbsp; /&nbsp; 9667 1051
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">peichun@transland.com.sg</a>
+</p>
+<p><strong>Registration link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://pcps.translandsg.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><strong>Login Code:</strong> 25PCPS</p>
 <p><strong><u>Daily School Bus Services (2025-2026)</u></strong>
 <br>(ie., for sending pupils from home to school and vice versa) (Monthly
 “not to exceed” fares)</p>
