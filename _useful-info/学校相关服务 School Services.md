@@ -36,7 +36,7 @@ Wed/Thu/Fri: 2.00pm to 4.00pm<br>
 Located near Gate 4 along Lorong 6 road<br>
 (Excluding Public Holidays and School Holidays)<br>
 Click on the link below to download 
-[2024 School Booklist](https://drive.google.com/drive/folders/14YvSZ5iXTqfExPLiD9mKtfjT8aIi8ue9?usp=sharing)
+[School Booklist](https://drive.google.com/drive/folders/14YvSZ5iXTqfExPLiD9mKtfjT8aIi8ue9?usp=sharing)
 
 
 <b><u>School Uniform (Jeep Sing Fashion)</u></b><br>
