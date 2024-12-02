@@ -13,6 +13,6 @@ variant: tiptap
 <br><strong>Login Code:</strong> 25PCPS</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Info/Transland_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Info/TRANSLAND_2025_26.jpg">
 </div>
 <p></p>
