@@ -2,8 +2,9 @@
 title: 上课时间 School hours
 permalink: /useful-info/school-hours/
 description: ""
+variant: markdown
 ---
-![School Hours](/images/Useful%20Info/schoolhours%20v1.jpg)
+![2025 School Hours](/images/Useful%20Info/2025_School_Hours.jpg)
 
 Note: RP – Remedial Programme<br>
 EP – Enrichment Programme
