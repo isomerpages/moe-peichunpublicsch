@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Details of School Bus Service</strong></h4>
-<p><strong><u>Transland Singapore Pte Ltd </u></strong>
-<br>Contact: 6560 8032&nbsp; /&nbsp; 9667 1051
-<br>Email: <a href="peichun@transland.com.sg" rel="noopener nofollow" target="_blank">peichun@transland.com.sg</a>
+<p><strong>Service Provider:</strong> Transland
+<br><strong>Contact</strong>: 6560 8032&nbsp; /&nbsp; 9667 1051
+<br><strong>Email</strong>: <a href="peichun@transland.com.sg" rel="noopener nofollow" target="_blank">peichun@transland.com.sg</a>
 </p>
 <p><strong>Registration link: </strong><a href="https://pcps.translandsg.com/" rel="noopener nofollow" target="_blank">https://pcps.translandsg.com/</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br><strong>Login Code:</strong> 25PCPS</p>
