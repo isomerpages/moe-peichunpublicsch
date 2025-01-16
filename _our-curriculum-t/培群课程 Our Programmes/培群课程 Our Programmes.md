@@ -49,7 +49,7 @@ variant: markdown
 				<p align="center">课后辅助计划<br>Academic Support (AS)</p>
 			</a>
 											</td><td width="25%">
-			<a href="https://sites.google.com/pcps.edu.sg/enrichment-programme">
+			<a href="https://sites.google.com/moe.edu.sg/ep-info/home">
 				<img src="/images/Prog%20icon/Enrichment.jpg">
 				<p align="center">增益课程<br>Enrichment Programme</p>
 			</a>
