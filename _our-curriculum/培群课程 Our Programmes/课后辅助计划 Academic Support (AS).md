@@ -30,8 +30,9 @@ up with the pace of learning in class.</p>
 a consent form and the detailed schedule of the weekly lessons from the
 Form Teacher.&nbsp; Please make the necessary arrangements (e.g. transportation
 and lunch) for your child/ward to attend these lessons as show:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/2025_AS_Schedule.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Programmes/2025_AS_Schedule.png">
 </div>
 <p>We seek your cooperation to inform your child’s/ward’s academic support
 teacher(s) if your child/ward needs to be excused from any lesson as attendance
