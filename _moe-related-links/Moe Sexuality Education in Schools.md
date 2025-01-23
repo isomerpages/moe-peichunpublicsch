@@ -81,7 +81,7 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/peichunsed" rel="noopener nofollow" target="_blank">here</a>. The
+to parents at the start of the year and can be accessed <a href="https://go.gov.sg/peichunsed" rel="noopener nofollow" target="_blank">here</a>. The
 completed opt-out form is to be submitted by 10 February 2025.</p>
 <p>10. Parents can contact the school at <a href="mailto:pcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pcps@moe.edu.sg</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
