@@ -4,4 +4,4 @@ permalink: /our-people/SMC/
 description: ""
 variant: markdown
 ---
-![](/images/Our%20People/2025_SMC_List_.jpg)
+![](/images/Our%20People/2025_SMC_List.jpg)
