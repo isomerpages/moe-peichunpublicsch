@@ -8,9 +8,9 @@ variant: markdown
 
 * <u>By School Bus</u><br>
 Within the school compound at the Bus Bay<br>
-Bus Liaison Officer: Mr Joseph<br>
-Contact Number: 8684 7724<br>
-Email Contact : pcpsbus@yeaptpt.com
+Bus Liaison Officer: Duty Officer TRANSLAND<br>
+Contact Number:  6560 8032  /  9667 1051<br>
+Email Contact : [peichun@transland.com.sg](peichun@transland.com.sg)
 
 
 * <u>By Car:</u><br>
