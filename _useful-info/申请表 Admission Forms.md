@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <b><u>Primary 1 Registration:</u></b> <br>
-1. [Ballot History](/files/Admission/Ballot_history__07may2024_.pdf)
+1. [Ballot History](/files/Admission/Ballot_history__2july2025_.pdf)
 
 <b><u>Alumni Association</u></b><br>
 1.  [Membership Application Form](https://peichunalumni.sg/membership)<br>
