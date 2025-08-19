@@ -2,10 +2,8 @@
 title: 学校联络 Contact Us
 permalink: /school-contact/contact/
 description: ""
+variant: markdown
 ---
-
-
-
 <b><u>Contact Us</u></b>
 
 Email: [pcps@moe.edu.sg](pcps@moe.edu.sg)<br>
@@ -13,7 +11,7 @@ Online Form: [Parent Enquiry Form](https://forms.gle/D9jcGNCrdvHt3QnA6)<br>
 Telephone: 6353-9450<br>
 Fax: 6353-8418<br>
 School Location: 16 Lorong 7 Toa Payoh Singapore 319320 <br>
-Bus Services: 57, 232 <br>
+Bus Services: 57, 232, 230<br>
 Nearest MRT Station: Toa Payoh and Braddell MRT stations
 
 General Office Operation Hours: <br>
