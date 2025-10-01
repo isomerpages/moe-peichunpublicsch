@@ -12,7 +12,7 @@ variant: markdown
 2.  [Primary 1 (P1) Registration - MOE Site](https://www.moe.gov.sg/primary/p1-registration)
 
 <b><u>Parent Volunteer:</u></b><br>
-* Parent Volunteer applications for Singapore Citizen children born in 2 Jan 2021 (and 1 Jan 2022) are now open. Please [apply here](https://form.gov.sg/66c5573f181824dbd27cb3a3).<br>
+* Parent Volunteer applications for Singapore Citizen children born in 2 Jan 2021 (and 1 Jan 2022) is now closed. <br>
 * Only shortlisted applicants will be notified.<br>
 * Parent Volunteer Applications are available strictly in the third quarter annually for Singapore Citizen children born in the following years:<br>
 ![](/images/Useful%20Info/PV2025.png)
