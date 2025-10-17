@@ -4,13 +4,11 @@ permalink: /useful-info/SchoolServices/
 description: ""
 variant: markdown
 ---
-<b><u>Student Care Service </u></b><br>
+<b><u>Student Care Service for 2025 </u></b><br>
 Ace@Work Schoolcare Pte Ltd <br>
 School Student Care Center (SCC) Supervisor: Miss Erika Del Rosario <br>
 Telephone: 6677 4957/ 9007 4498 <br>
-Email: [feedbackpcps@aceatwork.com.sg](feedbackpcps@aceatwork.com.sg)<br>
-Please click here to [view 2023 dates SCC will be closed (updated on 18 Sept 2023).](/files/School%20Services/year%202023%20closure%20notice%20updated%2018sept.pdf)<br>
-Please click here for [Student Care Registration Form. ](/files/School%20Services/2022-PCPS-student-care-registration-form.pdf) <br>
+Email: [feedbackpcps@aceatwork.com.sg](feedbackpcps@aceatwork.com.sg) <br>
 
 <b><u>PCPS Dental Clinic: </u></b><br>
 Telephone: 8909 0547<br>
