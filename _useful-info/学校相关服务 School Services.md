@@ -4,11 +4,25 @@ permalink: /useful-info/SchoolServices/
 description: ""
 variant: markdown
 ---
+<b><u>Student Care Service for 2026</u></b><br>
+LIFE Student Care @ Pei Chun <br>
+Centre Manager: Ms Grace Chen <br>
+Assistant Supervisor: Ms Clara Chan<br>
+Telephone: 8341 5657 <br>
+Email: peichun@lifesccltd.com <br>
+Website: https://lifesccltd.com/ <br>
+
+Note: <br>
+* For 2026 Enrolment to LIFE Student Care @ Pei Chun, please register [here](https://go.gov.sg/2026pcpssccregistration).<br>
+Successful Applicant will be notified by <u>31 December 2025.</u><br>
+* For enrolment in December 2025, please email to pcps@moe.edu.sg <br>
+
 <b><u>Student Care Service for 2025 </u></b><br>
 Ace@Work Schoolcare Pte Ltd <br>
-School Student Care Center (SCC) Supervisor: Miss Erika Del Rosario <br>
+Supervisor: Miss Erika Del Rosario <br>
 Telephone: 6677 4957/ 9007 4498 <br>
 Email: [feedbackpcps@aceatwork.com.sg](feedbackpcps@aceatwork.com.sg) <br>
+
 
 <b><u>PCPS Dental Clinic: </u></b><br>
 Telephone: 8909 0547<br>
