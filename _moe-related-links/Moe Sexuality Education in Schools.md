@@ -16,38 +16,36 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The Goals of Sexuality Education are:</p>
-<p>(a) Support students in managing their physiological, social and emotional
+<p>2.	<strong>The Goals of Sexuality Education are:</strong>
+<br>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.
 <br>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.
 <br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>3. The Key Messages of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;
+<p>3.	<strong>The Key Messages of Sexuality Education are:</strong>
+<br>(a) Love and respect yourself as you love and respect others;
 <br>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);
 <br>(c) Make responsible decisions for yourself, your family and society;
 and
 <br>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+ones.
+<br>You may <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">click here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF PEI CHUN PUBLIC SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
-</p>
-<p>4. Sexuality Education is delivered in a holistic manner through the school
+<p><strong>OVERVIEW OF PEI CHUN PUBLIC SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
+<br>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">click here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:
 <br>a. Science
 <br>b. Character and Citizenship Education (CCE)</p>
-<p><strong><u>Sexuality Education Lessons:</u></strong>
-</p>
-<p>6. The upper primary years mark the onset of puberty. With better nutrition
+<p><strong>Sexuality Education Lessons</strong>
+<br>6. The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
 in themselves. The implication is that our children are becoming biologically
@@ -66,24 +64,23 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_P5_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sexuality_1.png">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_P5_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sexuality_2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_P6_1.png">
-</div>
-<p><strong><u>INFORMATION FOR PARENTS</u></strong>
+<p><strong>INFORMATION FOR PARENTS</strong>
 </p>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and can be accessed <a href="https://go.gov.sg/peichunsed" rel="noopener nofollow" target="_blank">here</a>. The
-completed opt-out form is to be submitted by 10 February 2025.</p>
-<p>10. Parents can contact the school at <a href="mailto:pcps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pcps@moe.edu.sg</a> for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
+to parents at the start of the year and is also available <a href="https://go.gov.sg/peichunsed" rel="noopener nofollow" target="_blank">here</a>. The
+completed opt-out form is to be submitted by 13 February 2026.</p>
+<p>10. Parents can contact the school at <a href="pcps@moe.edu.sg" rel="noopener nofollow" target="_blank">pcps@moe.edu.sg </a>for discussion or to seek clarification
+about the school’s Sexuality Education programme.</p>
 <p></p>
 <p></p>
